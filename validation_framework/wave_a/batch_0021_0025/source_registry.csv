@@ -1,0 +1,6 @@
+component_id,source_type,source_url,access_date,claim_scope,evidence_status,review_note
+CMP-LDR-0021,manufacturer_datasheet,https://www.sick.com/media/pdf/6/46/446/dataSheet_TiM561-2050101_1071419_en.pdf,2026-10-10,model-specific manufacturer source,model_specific_evidence,Manufacturer part no. 1071419; not a safety-rated protective scanner.
+CMP-LDR-0022,manufacturer_product_spec,https://www.hokuyo-aut.jp/search/single.php?serial=233,2026-10-10,model-specific manufacturer source,model_specific_evidence,UUST1** vs UUST2** firmware generations must not be interchanged; exact order code pending.
+CMP-LDR-0023,manufacturer_product_spec,https://www.slamtec.com/en/s3/spec,2026-10-10,model-specific manufacturer source,model_specific_evidence,Orderable SKU/variant pending; driver and ROS2 integration not tested.
+CMP-LDR-0024,manufacturer_product_spec,https://www.livoxtech.com/tele-15/specs,2026-10-10,model-specific manufacturer source,model_specific_evidence,Manufacturer localized pages disagree on 500m target reflectivity and FOV; EN page used; requires datasheet revision reconciliation.
+CMP-LDR-0025,manufacturer_user_manual,https://www.hesaitech.com/wp-content/uploads/XT32M2X_User_Manual_X03-en-241110.pdf,2026-10-10,model-specific manufacturer source,model_specific_evidence,Exact SKU/revision pending; do not confuse XT32M2X with XT32M or XT32.

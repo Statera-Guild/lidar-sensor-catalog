@@ -1,0 +1,6 @@
+component_id,manufacturer,model,proposed_sku,source_url,source_type,claim_scope,evidence_status,access_date
+CMP-LDR-0021,SICK,TiM561-2050101,TiM561-2050101,https://www.sick.com/media/pdf/6/46/446/dataSheet_TiM561-2050101_1071419_en.pdf,manufacturer_datasheet,scanning_range_max; range_10pct; horizontal_fov; scan_frequency; interface,model_specific_evidence,2026-10-10
+CMP-LDR-0022,Hokuyo,UST-30LX,,https://www.hokuyo-aut.jp/search/single.php?serial=233,manufacturer_product_spec,range_white; range_10pct; horizontal_fov; scan_period; interface,model_specific_evidence,2026-10-10
+CMP-LDR-0023,SLAMTEC,RPLIDAR S3,,https://www.slamtec.com/en/s3/spec,manufacturer_product_spec,range_70pct; range_10pct; range_2pct; sample_rate; interface,model_specific_evidence,2026-10-10
+CMP-LDR-0024,Livox,Tele-15,Tele-15,https://www.livoxtech.com/tele-15/specs,manufacturer_product_spec,range_10pct; range_50pct; fov; point_rate; sync,model_specific_evidence,2026-10-10
+CMP-LDR-0025,Hesai,XT32M2X,,https://www.hesaitech.com/wp-content/uploads/XT32M2X_User_Manual_X03-en-241110.pdf,manufacturer_user_manual,laser_channels; typical_range,model_specific_evidence,2026-10-10

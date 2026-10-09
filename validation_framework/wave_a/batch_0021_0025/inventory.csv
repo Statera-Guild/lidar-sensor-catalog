@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,provisional_class,catalog_status,verification_status,algorithm_test_status,record_date,wave
+CMP-LDR-0021,SICK,TiM561-2050101,TiM561-2050101,2D planar,listed,not_verified,not_tested,2026-10-10,wave_05
+CMP-LDR-0022,Hokuyo,UST-30LX,,2D planar,listed,not_verified,not_tested,2026-10-10,wave_05
+CMP-LDR-0023,SLAMTEC,RPLIDAR S3,,2D planar,listed,not_verified,not_tested,2026-10-10,wave_05
+CMP-LDR-0024,Livox,Tele-15,Tele-15,3D non-repetitive,listed,not_verified,not_tested,2026-10-10,wave_05
+CMP-LDR-0025,Hesai,XT32M2X,,3D spinning,listed,not_verified,not_tested,2026-10-10,wave_05

@@ -1,0 +1,1 @@
+Run python APPLY_WAVE_05.py from the Git repository root after copying package files. It reads existing master_catalog_0001_0020.csv and writes master_catalog_0001_0025.csv without changing earlier records.

@@ -1,0 +1,6 @@
+component_id,algorithm_or_interface,test_status,next_gate,notes
+CMP-LDR-0021,ROS2,not_tested,requires device/driver validation,No algorithm interoperability evidence asserted
+CMP-LDR-0022,ROS2,not_tested,requires device/driver validation,No algorithm interoperability evidence asserted
+CMP-LDR-0023,ROS2,not_tested,requires device/driver validation,No algorithm interoperability evidence asserted
+CMP-LDR-0024,ROS2,not_tested,requires device/driver validation,No algorithm interoperability evidence asserted
+CMP-LDR-0025,ROS2,not_tested,requires device/driver validation,No algorithm interoperability evidence asserted

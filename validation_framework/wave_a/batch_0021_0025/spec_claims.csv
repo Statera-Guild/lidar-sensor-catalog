@@ -1,0 +1,23 @@
+component_id,claim_key,claim_value,conditions_or_scope,source_url,claim_verification
+CMP-LDR-0021,scanning_range_max,10 m,maximum scanning range,https://www.sick.com/media/pdf/6/46/446/dataSheet_TiM561-2050101_1071419_en.pdf,source_backed
+CMP-LDR-0021,range_10pct,8 m,typical at 10% remission,https://www.sick.com/media/pdf/6/46/446/dataSheet_TiM561-2050101_1071419_en.pdf,source_backed
+CMP-LDR-0021,horizontal_fov,270 deg,aperture angle,https://www.sick.com/media/pdf/6/46/446/dataSheet_TiM561-2050101_1071419_en.pdf,source_backed
+CMP-LDR-0021,scan_frequency,15 Hz,nominal,https://www.sick.com/media/pdf/6/46/446/dataSheet_TiM561-2050101_1071419_en.pdf,source_backed
+CMP-LDR-0021,interface,Ethernet,M12 D-coded,https://www.sick.com/media/pdf/6/46/446/dataSheet_TiM561-2050101_1071419_en.pdf,source_backed
+CMP-LDR-0022,range_white,0.05-30 m,white Kent sheet,https://www.hokuyo-aut.jp/search/single.php?serial=233,source_backed
+CMP-LDR-0022,range_10pct,0.05-12 m,10% diffuse reflectance,https://www.hokuyo-aut.jp/search/single.php?serial=233,source_backed
+CMP-LDR-0022,horizontal_fov,270 deg,scan angle,https://www.hokuyo-aut.jp/search/single.php?serial=233,source_backed
+CMP-LDR-0022,scan_period,25 ms,scan speed,https://www.hokuyo-aut.jp/search/single.php?serial=233,source_backed
+CMP-LDR-0022,interface,Ethernet 100BASE-TX,manufacturer spec,https://www.hokuyo-aut.jp/search/single.php?serial=233,source_backed
+CMP-LDR-0023,range_70pct,0.05-40 m,70% reflectivity,https://www.slamtec.com/en/s3/spec,source_backed
+CMP-LDR-0023,range_10pct,0.05-15 m,10% reflectivity,https://www.slamtec.com/en/s3/spec,source_backed
+CMP-LDR-0023,range_2pct,0.05-5 m,2% reflectivity,https://www.slamtec.com/en/s3/spec,source_backed
+CMP-LDR-0023,sample_rate,32000 samples/s,manufacturer spec,https://www.slamtec.com/en/s3/spec,source_backed
+CMP-LDR-0023,interface,TTL UART,1M baud,https://www.slamtec.com/en/s3/spec,source_backed
+CMP-LDR-0024,range_10pct,320 m,100 klx; 10% reflectivity,https://www.livoxtech.com/tele-15/specs,source_backed
+CMP-LDR-0024,range_50pct,500 m,100 klx; 50% reflectivity; EN spec,https://www.livoxtech.com/tele-15/specs,source_backed
+CMP-LDR-0024,fov,14.5 x 16.2 deg,EN manufacturer page,https://www.livoxtech.com/tele-15/specs,source_backed
+CMP-LDR-0024,point_rate,240000 points/s,single return,https://www.livoxtech.com/tele-15/specs,source_backed
+CMP-LDR-0024,sync,PTPv2 and PPS,IEEE 1588-2008,https://www.livoxtech.com/tele-15/specs,source_backed
+CMP-LDR-0025,laser_channels,32,Hesai official partnership statement; second source,https://www.hesaitech.com/hesai-and-navvis-join-forces-to-revolutionize-reality-capture-with-cutting-edge-lidar-sensor-technology/,source_backed
+CMP-LDR-0025,typical_range,120 m,Hesai official partnership statement; second source,https://www.hesaitech.com/hesai-and-navvis-join-forces-to-revolutionize-reality-capture-with-cutting-edge-lidar-sensor-technology/,source_backed

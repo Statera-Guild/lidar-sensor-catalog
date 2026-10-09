@@ -1,0 +1,6 @@
+component_id,manufacturer,model,proposed_sku,source_url,source_type,claim_scope,evidence_status,access_date
+CMP-LDR-0001,SICK,TiM571,TiM571-2050101,https://www.sick.com/media/pdf/4/44/444/dataSheet_TiM571-2050101_1075091_en.pdf,manufacturer_datasheet,2D planar; specific variant TiM571-2050101; not a machine-safety component,model_specific_evidence,2026-10-09
+CMP-LDR-0002,Hokuyo,UST-10LX,UST-10LX,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_product_spec,2D scanning; 270 deg; 0.06-10m white target; 0.06-4m at 10% reflectance,model_specific_evidence,2026-10-09
+CMP-LDR-0003,SLAMTEC,RPLIDAR S2,S2M1-Rx,https://www.slamtec.com/en/s2/spec,manufacturer_product_spec,S2 0.05-30m at 90% reflectance; 0.05-10m at 10%; Rx requires variant resolution,model_variant_pending,2026-10-09
+CMP-LDR-0004,Ouster,OS1,,https://static.ouster.dev/sensor-docs/hw_user_manual_OS1/hw_common_sections_OS1/os1-overview.html,manufacturer_hardware_manual,OS1 Rev7 family includes OS1-32 OS1-64 OS1-128; no exact SKU selected,family_only,2026-10-09
+CMP-LDR-0005,Livox,Mid-360,Mid-360,https://www.livoxtech.com/de/mid-360/specs,manufacturer_product_spec,905nm; 40m at 10% reflectivity 100klx; H360 V59; 200k points/s; 10Hz; IP67,model_specific_evidence,2026-10-09

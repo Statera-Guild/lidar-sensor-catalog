@@ -11,9 +11,9 @@ See `validation_framework/integration/master_catalog_0001_0010.csv`.
 <!-- PAI-SG-LIDAR-CATALOG:START -->
 ## LiDAR Sensor Catalog — Component Index
 
-**Registered: 55 / 80 (68.75%) · Waves 1–11**
+**Registered: 60 / 80 (75%) · Waves 1–12**
 
-This index is generated from `validation_framework/integration/master_catalog_0001_0055.csv`.
+This index is generated from `validation_framework/integration/master_catalog_0001_0060.csv`.
 Manufacturer specifications are evidence-backed catalog claims, **not hardware or ROS2/algorithm test results**.
 
 | Component ID | Manufacturer | Model | Catalog status | Verification | Algorithm test |
@@ -73,5 +73,10 @@ Manufacturer specifications are evidence-backed catalog claims, **not hardware o
 | [CMP-LDR-0053](component_cards/CMP-LDR-0053.md) | SLAMTEC | RPLIDAR A2M12 | listed | not_verified | not_tested |
 | [CMP-LDR-0054](component_cards/CMP-LDR-0054.md) | SLAMTEC | LPX-T1M4 | listed | not_verified | not_tested |
 | [CMP-LDR-0055](component_cards/CMP-LDR-0055.md) | SLAMTEC | LPX-E3P2 | listed | not_verified | not_tested |
+| [CMP-LDR-0056](component_cards/CMP-LDR-0056.md) | SICK | picoScan150 Pro | family_listed | not_verified | not_tested |
+| [CMP-LDR-0057](component_cards/CMP-LDR-0057.md) | SICK | multiScan136 | family_listed | not_verified | not_tested |
+| [CMP-LDR-0058](component_cards/CMP-LDR-0058.md) | SICK | multiScan165 | family_listed | not_verified | not_tested |
+| [CMP-LDR-0059](component_cards/CMP-LDR-0059.md) | SICK | nanoScan3 | family_listed | not_verified | not_tested |
+| [CMP-LDR-0060](component_cards/CMP-LDR-0060.md) | SICK | outdoorScan3 | family_listed | not_verified | not_tested |
 
 <!-- PAI-SG-LIDAR-CATALOG:END -->

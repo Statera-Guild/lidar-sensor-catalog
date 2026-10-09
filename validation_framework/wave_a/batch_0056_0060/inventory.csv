@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-LDR-0056,SICK,picoScan150 Pro,picoScan150 Pro configuration,family_listed,not_verified,not_tested,wave_12
+CMP-LDR-0057,SICK,multiScan136,multiScan136 family,family_listed,not_verified,not_tested,wave_12
+CMP-LDR-0058,SICK,multiScan165,multiScan165 family,family_listed,not_verified,not_tested,wave_12
+CMP-LDR-0059,SICK,nanoScan3,nanoScan3 family,family_listed,not_verified,not_tested,wave_12
+CMP-LDR-0060,SICK,outdoorScan3,outdoorScan3 family,family_listed,not_verified,not_tested,wave_12

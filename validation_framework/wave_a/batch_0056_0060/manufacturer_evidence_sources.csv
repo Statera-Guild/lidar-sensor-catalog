@@ -1,0 +1,6 @@
+source_id,component_id,manufacturer,source_type,source_url,access_date,evidence_status
+SRC-LDR-0056,CMP-LDR-0056,SICK,official_manufacturer_specification,https://www.sick.com/media/productoverview/0/70/970/productoverview_picoScan100_g574970_en.pdf,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0057,CMP-LDR-0057,SICK,official_manufacturer_specification,https://cdn.sick.com/media/familyoverview/4/14/914/familyOverview_multiScan100_g574914_ko.pdf,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0058,CMP-LDR-0058,SICK,official_manufacturer_specification,https://cdn.sick.com/media/familyoverview/4/14/914/familyOverview_multiScan100_g574914_ko.pdf,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0059,CMP-LDR-0059,SICK,official_manufacturer_specification,https://www.sick.com/media/familyoverview/6/56/056/familyOverview_nanoScan3_g507056_en.pdf,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0060,CMP-LDR-0060,SICK,official_manufacturer_specification,https://www.sick.com/media/docs/3/63/763/product_information_outdoorscan3_safety_laser_scanner_en_im0082763.pdf,2026-10-10,manufacturer_claim_not_independently_verified

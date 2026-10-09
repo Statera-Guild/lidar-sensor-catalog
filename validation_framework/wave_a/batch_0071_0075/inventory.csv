@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-LDR-0071,RoboSense,Helios 16,Helios 16 / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_15
+CMP-LDR-0072,RoboSense,Helios 32 H32F70,Helios 32 H32F70 / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_15
+CMP-LDR-0073,RoboSense,Helios 32 H32F26,Helios 32 H32F26 / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_15
+CMP-LDR-0074,RoboSense,Ruby Plus,Ruby Plus / exact orderable SKU to confirm,family_listed,not_verified,not_tested,wave_15
+CMP-LDR-0075,RoboSense,Bpearl,Bpearl / exact orderable SKU to confirm,family_listed,not_verified,not_tested,wave_15

@@ -11,9 +11,9 @@ See `validation_framework/integration/master_catalog_0001_0010.csv`.
 <!-- PAI-SG-LIDAR-CATALOG:START -->
 ## LiDAR Sensor Catalog — Component Index
 
-**Registered: 70 / 80 (87.5%) · Waves 1–14**
+**Registered: 75 / 80 (93.75%) · Waves 1–15**
 
-This index is generated from `validation_framework/integration/master_catalog_0001_0070.csv`.
+This index is generated from `validation_framework/integration/master_catalog_0001_0075.csv`.
 Manufacturer specifications are evidence-backed catalog claims, **not hardware or ROS2/algorithm test results**.
 
 | Component ID | Manufacturer | Model | Catalog status | Verification | Algorithm test |
@@ -88,5 +88,10 @@ Manufacturer specifications are evidence-backed catalog claims, **not hardware o
 | [CMP-LDR-0068](component_cards/CMP-LDR-0068.md) | Hesai | JT128 | listed | not_verified | not_tested |
 | [CMP-LDR-0069](component_cards/CMP-LDR-0069.md) | Hesai | JT32 | listed | not_verified | not_tested |
 | [CMP-LDR-0070](component_cards/CMP-LDR-0070.md) | Hesai | FTX | listed | not_verified | not_tested |
+| [CMP-LDR-0071](component_cards/CMP-LDR-0071.md) | RoboSense | Helios 16 | listed | not_verified | not_tested |
+| [CMP-LDR-0072](component_cards/CMP-LDR-0072.md) | RoboSense | Helios 32 H32F70 | listed | not_verified | not_tested |
+| [CMP-LDR-0073](component_cards/CMP-LDR-0073.md) | RoboSense | Helios 32 H32F26 | listed | not_verified | not_tested |
+| [CMP-LDR-0074](component_cards/CMP-LDR-0074.md) | RoboSense | Ruby Plus | family_listed | not_verified | not_tested |
+| [CMP-LDR-0075](component_cards/CMP-LDR-0075.md) | RoboSense | Bpearl | family_listed | not_verified | not_tested |
 
 <!-- PAI-SG-LIDAR-CATALOG:END -->

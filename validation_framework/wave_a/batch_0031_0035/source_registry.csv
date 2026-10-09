@@ -1,0 +1,6 @@
+component_id,source_type,source_url,access_date,claim_scope,evidence_status,review_note
+CMP-LDR-0031,manufacturer_product_spec,https://www.hokuyo-aut.jp/search/single.php?serial=170,2026-10-10,model-specific manufacturer specifications,model_specific_evidence,Model/SKU lifecycle and procurement to confirm; no physical tests
+CMP-LDR-0032,manufacturer_product_spec,https://www.hokuyo-aut.jp/search/single.php?serial=171,2026-10-10,model-specific manufacturer specifications,model_specific_evidence,Model/SKU lifecycle and procurement to confirm; no physical tests
+CMP-LDR-0033,manufacturer_variant_spec,https://www.slamtec.com/en/lidar/a2spec,2026-10-10,model-specific manufacturer specifications,model_specific_evidence,Model/SKU lifecycle and procurement to confirm; no physical tests
+CMP-LDR-0034,manufacturer_user_manual_v1.0,https://www.livoxtech.com/3296f540ecf5458a8829e01cf429798e/assets/horizon/Livox%20Horizon%20user%20manual%20v1.0.pdf,2026-10-10,model-specific manufacturer specifications,model_specific_evidence,Model/SKU lifecycle and procurement to confirm; no physical tests
+CMP-LDR-0035,manufacturer_product_spec,https://www.hesaitech.com/product/QT128/,2026-10-10,model-specific manufacturer specifications,model_specific_evidence,Model/SKU lifecycle and procurement to confirm; no physical tests

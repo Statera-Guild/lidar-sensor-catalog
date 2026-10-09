@@ -1,0 +1,6 @@
+component_id,manufacturer,model,proposed_sku,source_url,source_type,claim_scope,evidence_status,access_date
+CMP-LDR-0031,Hokuyo,UTM-30LX-EW,,https://www.hokuyo-aut.jp/search/single.php?serial=170,manufacturer_product_spec,model-specific manufacturer published specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0032,Hokuyo,UXM-30LX-EW,,https://www.hokuyo-aut.jp/search/single.php?serial=171,manufacturer_product_spec,model-specific manufacturer published specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0033,SLAMTEC,RPLIDAR A2M7,A2M7,https://www.slamtec.com/en/lidar/a2spec,manufacturer_variant_spec,model-specific manufacturer published specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0034,Livox,Horizon,,https://www.livoxtech.com/3296f540ecf5458a8829e01cf429798e/assets/horizon/Livox%20Horizon%20user%20manual%20v1.0.pdf,manufacturer_user_manual_v1.0,model-specific manufacturer published specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0035,Hesai,QT128,,https://www.hesaitech.com/product/QT128/,manufacturer_product_spec,model-specific manufacturer published specifications,model_specific_evidence,2026-10-10

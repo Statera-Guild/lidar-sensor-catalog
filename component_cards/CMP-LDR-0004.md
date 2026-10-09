@@ -1,19 +1,20 @@
 # CMP-LDR-0004 — Ouster OS1
 
 - Manufacturer: Ouster
-- Model (candidate): OS1
-- Sensor class (provisional): 3D spinning
-- Exact orderable SKU / revision: **TBD**
-- Catalog status: **candidate** (not listed/verified)
-- Validation status: **not_verified**
-- Algorithm compatibility: **not_tested**
-- Manufacturer discovery homepage: https://ouster.com/
-- Product-specific manufacturer evidence: **PENDING**
+- Model: OS1
+- Orderable SKU: unresolved
+- Catalog status: **family_listed** (manufacturer listing only)
+- Verification status: **not_verified**
+- Algorithm test status: **not_tested**
+- Manufacturer evidence: https://static.ouster.dev/sensor-docs/hw_user_manual_OS1/hw_common_sections_OS1/os1-overview.html
+- Evidence scope: OS1 Rev7 family includes OS1-32 OS1-64 OS1-128; no exact SKU selected
 
-## Specification claims
+## Source-backed claims
 
-No specifications published in this card until supported by model-specific manufacturer evidence. Capture range conditions, FoV, angular resolution, scan frequency, wavelength, power, IP rating, interfaces, timestamps, ROS2 driver, SDK, eye safety and lifecycle when documented.
+- family_variants: OS1-32 / OS1-64 / OS1-128 (conditions: Rev7 manual; not a specific SKU; source: https://static.ouster.dev/sensor-docs/hw_user_manual_OS1/hw_common_sections_OS1/os1-overview.html)
 
-## Identity and review
+## Limitations
 
-Confirm normalized model, product family, revision and orderable SKU before promotion to `listed`.
+Manufacturer listing does not imply independent verification, hardware testing, safety certification, current availability, or ROS2/SLAM interoperability.
+
+OS1 is a product family, not a single orderable SKU. Family-level only; select OS1-32/64/128 and revision later.

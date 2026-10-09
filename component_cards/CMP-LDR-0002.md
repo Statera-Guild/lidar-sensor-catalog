@@ -1,19 +1,20 @@
 # CMP-LDR-0002 — Hokuyo UST-10LX
 
 - Manufacturer: Hokuyo
-- Model (candidate): UST-10LX
-- Sensor class (provisional): 2D planar
-- Exact orderable SKU / revision: **TBD**
-- Catalog status: **candidate** (not listed/verified)
-- Validation status: **not_verified**
-- Algorithm compatibility: **not_tested**
-- Manufacturer discovery homepage: https://www.hokuyo-aut.jp/
-- Product-specific manufacturer evidence: **PENDING**
+- Model: UST-10LX
+- Orderable SKU: UST-10LX
+- Catalog status: **listed** (manufacturer listing only)
+- Verification status: **not_verified**
+- Algorithm test status: **not_tested**
+- Manufacturer evidence: https://www.hokuyo-aut.jp/search/single.php?serial=167
+- Evidence scope: 2D scanning; 270 deg; 0.06-10m white target; 0.06-4m at 10% reflectance
 
-## Specification claims
+## Source-backed claims
 
-No specifications published in this card until supported by model-specific manufacturer evidence. Capture range conditions, FoV, angular resolution, scan frequency, wavelength, power, IP rating, interfaces, timestamps, ROS2 driver, SDK, eye safety and lifecycle when documented.
+- range_white_target: 0.06-10 m (conditions: white Kent sheet; source: https://www.hokuyo-aut.jp/search/single.php?serial=167)
+- range_10pct: 0.06-4 m (conditions: diffuse reflectance 10%; source: https://www.hokuyo-aut.jp/search/single.php?serial=167)
+- horizontal_fov: 270 deg (conditions: manufacturer specification; source: https://www.hokuyo-aut.jp/search/single.php?serial=167)
 
-## Identity and review
+## Limitations
 
-Confirm normalized model, product family, revision and orderable SKU before promotion to `listed`.
+Manufacturer listing does not imply independent verification, hardware testing, safety certification, current availability, or ROS2/SLAM interoperability.

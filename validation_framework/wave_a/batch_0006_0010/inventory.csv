@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,provisional_class,catalog_status,verification_status,algorithm_test_status,record_date,wave
+CMP-LDR-0006,SICK,LMS111,,2D planar,candidate,not_verified,not_tested,2026-10-09,wave_02
+CMP-LDR-0007,Hokuyo,UTM-30LX,,2D planar,candidate,not_verified,not_tested,2026-10-09,wave_02
+CMP-LDR-0008,Hesai,PandarXT-32,,3D spinning,candidate,not_verified,not_tested,2026-10-09,wave_02
+CMP-LDR-0009,RoboSense,RS-LiDAR-16,,3D spinning,candidate,not_verified,not_tested,2026-10-09,wave_02
+CMP-LDR-0010,Ouster,OS0,,3D spinning,candidate,not_verified,not_tested,2026-10-09,wave_02

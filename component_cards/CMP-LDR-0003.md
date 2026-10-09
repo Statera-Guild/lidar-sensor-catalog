@@ -1,19 +1,22 @@
 # CMP-LDR-0003 — SLAMTEC RPLIDAR S2
 
 - Manufacturer: SLAMTEC
-- Model (candidate): RPLIDAR S2
-- Sensor class (provisional): 2D planar
-- Exact orderable SKU / revision: **TBD**
-- Catalog status: **candidate** (not listed/verified)
-- Validation status: **not_verified**
-- Algorithm compatibility: **not_tested**
-- Manufacturer discovery homepage: https://www.slamtec.com/
-- Product-specific manufacturer evidence: **PENDING**
+- Model: RPLIDAR S2
+- Orderable SKU: unresolved
+- Catalog status: **listed** (manufacturer listing only)
+- Verification status: **not_verified**
+- Algorithm test status: **not_tested**
+- Manufacturer evidence: https://www.slamtec.com/en/s2/spec
+- Evidence scope: S2 0.05-30m at 90% reflectance; 0.05-10m at 10%; Rx requires variant resolution
 
-## Specification claims
+## Source-backed claims
 
-No specifications published in this card until supported by model-specific manufacturer evidence. Capture range conditions, FoV, angular resolution, scan frequency, wavelength, power, IP rating, interfaces, timestamps, ROS2 driver, SDK, eye safety and lifecycle when documented.
+- range_90pct: 0.05-30 m (conditions: S2 variant; source: https://www.slamtec.com/en/s2/spec)
+- range_10pct: 0.05-10 m (conditions: S2 variant; source: https://www.slamtec.com/en/s2/spec)
+- sample_rate: 32000 samples/s (conditions: S2 variant; source: https://www.slamtec.com/en/s2/spec)
 
-## Identity and review
+## Limitations
 
-Confirm normalized model, product family, revision and orderable SKU before promotion to `listed`.
+Manufacturer listing does not imply independent verification, hardware testing, safety certification, current availability, or ROS2/SLAM interoperability.
+
+S2 family variant suffix remains unresolved; do not assert orderable SKU.

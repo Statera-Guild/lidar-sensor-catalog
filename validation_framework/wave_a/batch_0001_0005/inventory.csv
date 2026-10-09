@@ -1,6 +1,6 @@
-﻿component_id,manufacturer,model,orderable_sku,provisional_class,catalog_status,verification_status,algorithm_test_status,record_date,wave
-CMP-LDR-0001,SICK,TiM571,,2D planar,candidate,not_verified,not_tested,2026-10-09,wave_01
-CMP-LDR-0002,Hokuyo,UST-10LX,,2D planar,candidate,not_verified,not_tested,2026-10-09,wave_01
-CMP-LDR-0003,SLAMTEC,RPLIDAR S2,,2D planar,candidate,not_verified,not_tested,2026-10-09,wave_01
-CMP-LDR-0004,Ouster,OS1,,3D spinning,candidate,not_verified,not_tested,2026-10-09,wave_01
-CMP-LDR-0005,Livox,Mid-360,,3D non-repetitive scanning,candidate,not_verified,not_tested,2026-10-09,wave_01
+component_id,manufacturer,model,orderable_sku,provisional_class,catalog_status,verification_status,algorithm_test_status,record_date,wave
+CMP-LDR-0001,SICK,TiM571-2050101,TiM571-2050101,2D planar,listed,not_verified,not_tested,2026-10-09,wave_01
+CMP-LDR-0002,Hokuyo,UST-10LX,UST-10LX,2D planar,listed,not_verified,not_tested,2026-10-09,wave_01
+CMP-LDR-0003,SLAMTEC,RPLIDAR S2,,2D planar,listed,not_verified,not_tested,2026-10-09,wave_01
+CMP-LDR-0004,Ouster,OS1,,3D spinning,family_listed,not_verified,not_tested,2026-10-09,wave_01
+CMP-LDR-0005,Livox,Mid-360,Mid-360,3D non-repetitive scanning,listed,not_verified,not_tested,2026-10-09,wave_01

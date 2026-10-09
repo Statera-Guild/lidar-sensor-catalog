@@ -1,19 +1,20 @@
-# CMP-LDR-0001 — SICK TiM571
+# CMP-LDR-0001 — SICK TiM571-2050101
 
 - Manufacturer: SICK
-- Model (candidate): TiM571
-- Sensor class (provisional): 2D planar
-- Exact orderable SKU / revision: **TBD**
-- Catalog status: **candidate** (not listed/verified)
-- Validation status: **not_verified**
-- Algorithm compatibility: **not_tested**
-- Manufacturer discovery homepage: https://www.sick.com/
-- Product-specific manufacturer evidence: **PENDING**
+- Model: TiM571-2050101
+- Orderable SKU: TiM571-2050101
+- Catalog status: **listed** (manufacturer listing only)
+- Verification status: **not_verified**
+- Algorithm test status: **not_tested**
+- Manufacturer evidence: https://www.sick.com/media/pdf/4/44/444/dataSheet_TiM571-2050101_1075091_en.pdf
+- Evidence scope: 2D planar; specific variant TiM571-2050101; not a machine-safety component
 
-## Specification claims
+## Source-backed claims
 
-No specifications published in this card until supported by model-specific manufacturer evidence. Capture range conditions, FoV, angular resolution, scan frequency, wavelength, power, IP rating, interfaces, timestamps, ROS2 driver, SDK, eye safety and lifecycle when documented.
+No model-specific technical claims.
 
-## Identity and review
+## Limitations
 
-Confirm normalized model, product family, revision and orderable SKU before promotion to `listed`.
+Manufacturer listing does not imply independent verification, hardware testing, safety certification, current availability, or ROS2/SLAM interoperability.
+
+SKU refers to the cited datasheet variant; confirm procurement revision before qualification. Not a machine safety component based on cited datasheet.

@@ -1,0 +1,45 @@
+component_id,claim_key,claim_value,conditions_or_scope,source_url,claim_verification,device_test_status
+CMP-LDR-0046,detection_range_white,0.06-5 m,white Kent sheet,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0046,detection_range_10pct,0.06-2 m,10% diffuse reflectance,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0046,scan_angle,270 deg,planar,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0046,scan_period,25 ms,motor 2400 rpm,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0046,angular_resolution,0.5 deg,planar,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0046,response_time,66 ms initial,configurable output delay; not scan period,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0046,interface,USB,configuration interface; area outputs are photocoupler open collector,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0046,ingress_protection,IP65,manufacturer published,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0046,supply,DC 10-30 V,nominal 12/24 V,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0046,output_type,NPN,UST-05LN; UST-05LNP is PNP,https://www.hokuyo-aut.jp/search/single.php?serial=159,source_backed,not_tested
+CMP-LDR-0047,range_90pct,0.05-18 m,90% reflectivity; S2L column only,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0047,range_10pct,0.05-8 m,10% reflectivity; S2L column only,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0047,scan_angle,360 deg,planar rotation; series overview,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0047,sampling_frequency,32000 samples/s,S2 family table,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0047,scan_frequency,10 Hz,typical,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0047,angular_resolution,0.1125 deg,typical,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0047,interface,UART serial 1 Mbps,S2L; not S2E Ethernet,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0047,ingress_protection,IP65,S2 series table,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0048,range_90pct,0.05-50 m,90% reflectivity; S2P column only,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0048,range_10pct,0.05-15 m,10% reflectivity; S2P column only,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0048,scan_angle,360 deg,planar rotation; series overview,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0048,sampling_frequency,32000 samples/s,S2 family table,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0048,scan_frequency,10 Hz,typical,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0048,angular_resolution,0.1125 deg,typical,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0048,interface,UART serial 1 Mbps,S2P; not S2E Ethernet,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0048,ingress_protection,IP65,S2 series table,https://www.slamtec.com/en/s2/spec,source_backed,not_tested
+CMP-LDR-0049,channels,64,mechanical spinning,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,range_10pct,0.3-200 m,10% reflectivity,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,horizontal_fov,360 deg,mechanical rotation,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,vertical_fov,40 deg,-25 to +15 deg,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,horizontal_resolution_10hz,0.2 deg,10 Hz operation,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,horizontal_resolution_20hz,0.4 deg,20 Hz operation,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,frame_rate,10 or 20 Hz,mode dependent,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,returns,single or dual,last/strongest or last and strongest,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,wavelength,905 nm,manufacturer published,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,ingress_protection,IP6K7,manufacturer published,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0049,supply,DC 9-48 V,rated voltage,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar64_User_Manual_640-en-241220.pdf,source_backed,not_tested
+CMP-LDR-0050,scan_angle,190 deg,LMS5xx family,https://www.sick.com/media/docs/4/14/514/Operating_instructions_Laser_Measurement_Sensors_of_the_LMS5xx_Product_Family_en_IM0037514.PDF,source_backed,not_tested
+CMP-LDR-0050,scanning_frequency,25-100 Hz,PRO/Heavy Duty family capability; model dependent,https://www.sick.com/media/docs/4/14/514/Operating_instructions_Laser_Measurement_Sensors_of_the_LMS5xx_Product_Family_en_IM0037514.PDF,source_backed,not_tested
+CMP-LDR-0050,distance_range,0.7-80 m,LMS5xx family maximum; not 10% reflectance,https://www.sick.com/media/docs/4/14/514/Operating_instructions_Laser_Measurement_Sensors_of_the_LMS5xx_Product_Family_en_IM0037514.PDF,source_backed,not_tested
+CMP-LDR-0050,range_10pct,1-40 m,LMS511-1x100 group; 10% object remission,https://www.sick.com/media/docs/4/14/514/Operating_instructions_Laser_Measurement_Sensors_of_the_LMS5xx_Product_Family_en_IM0037514.PDF,source_backed,not_tested
+CMP-LDR-0050,angular_resolution,0.1667-1 deg,PRO/Heavy Duty family configurable range,https://www.sick.com/media/docs/4/14/514/Operating_instructions_Laser_Measurement_Sensors_of_the_LMS5xx_Product_Family_en_IM0037514.PDF,source_backed,not_tested
+CMP-LDR-0050,measurement_accuracy_standard,+/-24 mm,typical standard resolution,https://www.sick.com/media/docs/4/14/514/Operating_instructions_Laser_Measurement_Sensors_of_the_LMS5xx_Product_Family_en_IM0037514.PDF,source_backed,not_tested
+CMP-LDR-0050,measurement_accuracy_high,+/-12 mm,typical high resolution,https://www.sick.com/media/docs/4/14/514/Operating_instructions_Laser_Measurement_Sensors_of_the_LMS5xx_Product_Family_en_IM0037514.PDF,source_backed,not_tested

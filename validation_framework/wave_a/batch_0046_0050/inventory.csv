@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,provisional_class,catalog_status,verification_status,algorithm_test_status,record_date,wave
+CMP-LDR-0046,Hokuyo,UST-05LN,,2D area configuration,listed,not_verified,not_tested,2026-10-10,wave_10
+CMP-LDR-0047,SLAMTEC,RPLIDAR S2L,S2M1-RxL,2D planar,listed,not_verified,not_tested,2026-10-10,wave_10
+CMP-LDR-0048,SLAMTEC,RPLIDAR S2P,S2M1-RxP,2D planar,listed,not_verified,not_tested,2026-10-10,wave_10
+CMP-LDR-0049,Hesai,Pandar64,,3D spinning,listed,not_verified,not_tested,2026-10-10,wave_10
+CMP-LDR-0050,SICK,LMS511-1x100,,2D planar family,family_listed,not_verified,not_tested,2026-10-10,wave_10

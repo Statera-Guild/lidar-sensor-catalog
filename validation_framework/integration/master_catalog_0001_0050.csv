@@ -1,0 +1,51 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-LDR-0001,SICK,TiM571-2050101,TiM571-2050101,listed,not_verified,not_tested,wave_01
+CMP-LDR-0002,Hokuyo,UST-10LX,UST-10LX,listed,not_verified,not_tested,wave_01
+CMP-LDR-0003,SLAMTEC,RPLIDAR S2,,listed,not_verified,not_tested,wave_01
+CMP-LDR-0004,Ouster,OS1,,family_listed,not_verified,not_tested,wave_01
+CMP-LDR-0005,Livox,Mid-360,Mid-360,listed,not_verified,not_tested,wave_01
+CMP-LDR-0006,SICK,LMS111,LMS111-10100,listed,not_verified,not_tested,wave_02
+CMP-LDR-0007,Hokuyo,UTM-30LX,UTM-30LX,listed,not_verified,not_tested,wave_02
+CMP-LDR-0008,Hesai,PandarXT-32,,listed,not_verified,not_tested,wave_02
+CMP-LDR-0009,RoboSense,RS-LiDAR-16,,listed,not_verified,not_tested,wave_02
+CMP-LDR-0010,Ouster,OS0,,family_listed,not_verified,not_tested,wave_02
+CMP-LDR-0011,SICK,TiM781-2174101,TiM781-2174101,listed,not_verified,not_tested,wave_03
+CMP-LDR-0012,Hokuyo,UST-20LX,UST-20LX,listed,not_verified,not_tested,wave_03
+CMP-LDR-0013,SLAMTEC,RPLIDAR A3,,listed,not_verified,not_tested,wave_03
+CMP-LDR-0014,Livox,Avia 2,Avia 2,listed,not_verified,not_tested,wave_03
+CMP-LDR-0015,Ouster,OS2,,family_listed,not_verified,not_tested,wave_03
+CMP-LDR-0016,SICK,TiM581-2050101,TiM581-2050101,listed,not_verified,not_tested,wave_04
+CMP-LDR-0017,Hokuyo,UST-05LX,UST-05LX,listed,not_verified,not_tested,wave_04
+CMP-LDR-0018,SLAMTEC,RPLIDAR C1,,listed,not_verified,not_tested,wave_04
+CMP-LDR-0019,Livox,HAP,,family_listed,not_verified,not_tested,wave_04
+CMP-LDR-0020,Ouster,OSDome,,family_listed,not_verified,not_tested,wave_04
+CMP-LDR-0021,SICK,TiM561-2050101,TiM561-2050101,listed,not_verified,not_tested,wave_05
+CMP-LDR-0022,Hokuyo,UST-30LX,,listed,not_verified,not_tested,wave_05
+CMP-LDR-0023,SLAMTEC,RPLIDAR S3,,listed,not_verified,not_tested,wave_05
+CMP-LDR-0024,Livox,Tele-15,Tele-15,listed,not_verified,not_tested,wave_05
+CMP-LDR-0025,Hesai,XT32M2X,,listed,not_verified,not_tested,wave_05
+CMP-LDR-0026,SICK,TiM361-2134101,TIM361-2134101,listed,not_verified,not_tested,wave_06
+CMP-LDR-0027,Hokuyo,UST-15LX,,listed,not_verified,not_tested,wave_06
+CMP-LDR-0028,SLAMTEC,RPLIDAR S1,,listed,not_verified,not_tested,wave_06
+CMP-LDR-0029,Livox,Mid-70,Mid-70,listed,not_verified,not_tested,wave_06
+CMP-LDR-0030,Hesai,AT128,,listed,not_verified,not_tested,wave_06
+CMP-LDR-0031,Hokuyo,UTM-30LX-EW,,listed,not_verified,not_tested,wave_07
+CMP-LDR-0032,Hokuyo,UXM-30LX-EW,,listed,not_verified,not_tested,wave_07
+CMP-LDR-0033,SLAMTEC,RPLIDAR A2M7,A2M7,listed,not_verified,not_tested,wave_07
+CMP-LDR-0034,Livox,Horizon,,listed,not_verified,not_tested,wave_07
+CMP-LDR-0035,Hesai,QT128,,listed,not_verified,not_tested,wave_07
+CMP-LDR-0036,Hokuyo,UST-10LX-H01,,listed,not_verified,not_tested,wave_08
+CMP-LDR-0037,Hokuyo,UST-20LX-H01,,listed,not_verified,not_tested,wave_08
+CMP-LDR-0038,Livox,Mid-40,,listed,not_verified,not_tested,wave_08
+CMP-LDR-0039,Livox,Mid-100,,listed,not_verified,not_tested,wave_08
+CMP-LDR-0040,Hesai,Pandar128,,listed,not_verified,not_tested,wave_08
+CMP-LDR-0041,Hokuyo,UGM-50LXP,UUGM001,listed,not_verified,not_tested,wave_09
+CMP-LDR-0042,Hokuyo,YVT-35LX-F0,,listed,not_verified,not_tested,wave_09
+CMP-LDR-0043,SLAMTEC,RPLIDAR A1,,listed,not_verified,not_tested,wave_09
+CMP-LDR-0044,Hesai,Pandar40P,,listed,not_verified,not_tested,wave_09
+CMP-LDR-0045,Hokuyo,UST-10LXB-H02,UUST163,listed,not_verified,not_tested,wave_09
+CMP-LDR-0046,Hokuyo,UST-05LN,,listed,not_verified,not_tested,wave_10
+CMP-LDR-0047,SLAMTEC,RPLIDAR S2L,S2M1-RxL,listed,not_verified,not_tested,wave_10
+CMP-LDR-0048,SLAMTEC,RPLIDAR S2P,S2M1-RxP,listed,not_verified,not_tested,wave_10
+CMP-LDR-0049,Hesai,Pandar64,,listed,not_verified,not_tested,wave_10
+CMP-LDR-0050,SICK,LMS511-1x100,,family_listed,not_verified,not_tested,wave_10

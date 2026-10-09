@@ -1,0 +1,6 @@
+﻿component_id,source_type,source_url,access_date,claim_scope,evidence_status,review_note
+CMP-LDR-0001,manufacturer_homepage_discovery,https://www.sick.com/,2026-10-09,discovery_only,not_product_evidence,Model-specific datasheet URL required; homepage does not support specification claims
+CMP-LDR-0002,manufacturer_homepage_discovery,https://www.hokuyo-aut.jp/,2026-10-09,discovery_only,not_product_evidence,Model-specific datasheet URL required; homepage does not support specification claims
+CMP-LDR-0003,manufacturer_homepage_discovery,https://www.slamtec.com/,2026-10-09,discovery_only,not_product_evidence,Model-specific datasheet URL required; homepage does not support specification claims
+CMP-LDR-0004,manufacturer_homepage_discovery,https://ouster.com/,2026-10-09,discovery_only,not_product_evidence,Model-specific datasheet URL required; homepage does not support specification claims
+CMP-LDR-0005,manufacturer_homepage_discovery,https://www.livoxtech.com/,2026-10-09,discovery_only,not_product_evidence,Model-specific datasheet URL required; homepage does not support specification claims

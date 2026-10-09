@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-LDR-0061,SICK,LMS1000,LMS1000 family / SKU to confirm,family_listed,not_verified,not_tested,wave_13
+CMP-LDR-0062,SICK,MRS1000,MRS1000 family / SKU to confirm,family_listed,not_verified,not_tested,wave_13
+CMP-LDR-0063,SICK,MRS6000,MRS6000 family / SKU to confirm,family_listed,not_verified,not_tested,wave_13
+CMP-LDR-0064,SICK,LRS4000,LRS4000 family / SKU to confirm,family_listed,not_verified,not_tested,wave_13
+CMP-LDR-0065,SICK,LMS4xx,LMS4xx family / SKU to confirm,family_listed,not_verified,not_tested,wave_13

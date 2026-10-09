@@ -11,9 +11,9 @@ See `validation_framework/integration/master_catalog_0001_0010.csv`.
 <!-- PAI-SG-LIDAR-CATALOG:START -->
 ## LiDAR Sensor Catalog — Component Index
 
-**Registered: 60 / 80 (75%) · Waves 1–12**
+**Registered: 65 / 80 (81.25%) · Waves 1–13**
 
-This index is generated from `validation_framework/integration/master_catalog_0001_0060.csv`.
+This index is generated from `validation_framework/integration/master_catalog_0001_0065.csv`.
 Manufacturer specifications are evidence-backed catalog claims, **not hardware or ROS2/algorithm test results**.
 
 | Component ID | Manufacturer | Model | Catalog status | Verification | Algorithm test |
@@ -78,5 +78,10 @@ Manufacturer specifications are evidence-backed catalog claims, **not hardware o
 | [CMP-LDR-0058](component_cards/CMP-LDR-0058.md) | SICK | multiScan165 | family_listed | not_verified | not_tested |
 | [CMP-LDR-0059](component_cards/CMP-LDR-0059.md) | SICK | nanoScan3 | family_listed | not_verified | not_tested |
 | [CMP-LDR-0060](component_cards/CMP-LDR-0060.md) | SICK | outdoorScan3 | family_listed | not_verified | not_tested |
+| [CMP-LDR-0061](component_cards/CMP-LDR-0061.md) | SICK | LMS1000 | family_listed | not_verified | not_tested |
+| [CMP-LDR-0062](component_cards/CMP-LDR-0062.md) | SICK | MRS1000 | family_listed | not_verified | not_tested |
+| [CMP-LDR-0063](component_cards/CMP-LDR-0063.md) | SICK | MRS6000 | family_listed | not_verified | not_tested |
+| [CMP-LDR-0064](component_cards/CMP-LDR-0064.md) | SICK | LRS4000 | family_listed | not_verified | not_tested |
+| [CMP-LDR-0065](component_cards/CMP-LDR-0065.md) | SICK | LMS4xx | family_listed | not_verified | not_tested |
 
 <!-- PAI-SG-LIDAR-CATALOG:END -->

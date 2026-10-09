@@ -1,0 +1,6 @@
+source_id,component_id,manufacturer,source_type,source_url,access_date,evidence_status
+SRC-LDR-0061,CMP-LDR-0061,SICK,official_manufacturer_specification,https://www.sick.com/au/en/catalog/products/lidar-and-radar-sensors/lidar-sensors/lms1000/c/g387151,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0062,CMP-LDR-0062,SICK,official_manufacturer_specification,https://cdn.sick.com/media/familyoverview/2/52/152/familyOverview_MRS1000_g387152_en.pdf,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0063,CMP-LDR-0063,SICK,official_manufacturer_specification,https://cdn.sick.com/media/docs/0/30/930/Product_overview_Detection_and_Ranging_Solutions_2D_laser_scanners_3D_laser_scanners_radar_sensors_en_IM0063930.PDF,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0064,CMP-LDR-0064,SICK,official_manufacturer_specification,https://www.sick.com/media/familyoverview/4/94/594/familyOverview_LRS4000_g555594_en.pdf,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0065,CMP-LDR-0065,SICK,official_manufacturer_specification,https://www.sick.com/media/familyoverview/0/10/910/familyOverview_LMS4xx_g91910_en.pdf,2026-10-10,manufacturer_claim_not_independently_verified

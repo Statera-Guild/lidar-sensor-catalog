@@ -1,0 +1,6 @@
+component_id,sensor_class,potential_use,raw_scan_stream,ros2_laserscan,algorithm_test_status,integration_caution
+CMP-LDR-0061,2D measurement LiDAR,2D obstacle detection / mapping candidate,requires_variant_and_device_validation,not_assumed,not_tested,"Exact SKU, scan output, ROS2 driver, timestamps and safety function require separate validation"
+CMP-LDR-0062,3D multilayer LiDAR,multi-layer obstacle detection / 3D perception candidate,requires_variant_and_device_validation,not_assumed,not_tested,"Exact SKU, scan output, ROS2 driver, timestamps and safety function require separate validation"
+CMP-LDR-0063,3D multilayer LiDAR,multi-layer 3D detection candidate,requires_variant_and_device_validation,not_assumed,not_tested,"Exact SKU, scan output, ROS2 driver, timestamps and safety function require separate validation"
+CMP-LDR-0064,2D long-range LiDAR,outdoor long-range localization / obstacle detection candidate,requires_variant_and_device_validation,not_assumed,not_tested,"Exact SKU, scan output, ROS2 driver, timestamps and safety function require separate validation"
+CMP-LDR-0065,2D near-range contour LiDAR,conveyor / pallet contour measurement candidate,requires_variant_and_device_validation,not_assumed,not_tested,"Exact SKU, scan output, ROS2 driver, timestamps and safety function require separate validation"

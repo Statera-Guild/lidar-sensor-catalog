@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,provisional_class,catalog_status,verification_status,algorithm_test_status,record_date,wave
+CMP-LDR-0026,SICK,TiM361-2134101,TIM361-2134101,2D planar,listed,not_verified,not_tested,2026-10-10,wave_06
+CMP-LDR-0027,Hokuyo,UST-15LX,,2D planar,listed,not_verified,not_tested,2026-10-10,wave_06
+CMP-LDR-0028,SLAMTEC,RPLIDAR S1,,2D planar,listed,not_verified,not_tested,2026-10-10,wave_06
+CMP-LDR-0029,Livox,Mid-70,Mid-70,3D non-repetitive,listed,not_verified,not_tested,2026-10-10,wave_06
+CMP-LDR-0030,Hesai,AT128,,3D directional,listed,not_verified,not_tested,2026-10-10,wave_06

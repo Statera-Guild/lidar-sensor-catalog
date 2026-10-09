@@ -1,0 +1,6 @@
+component_id,manufacturer,model,proposed_sku,source_url,source_type,claim_scope,evidence_status,access_date
+CMP-LDR-0026,SICK,TiM361-2134101,TIM361-2134101,https://cdn.sick.com/media/pdf/7/47/447/dataSheet_TIM361-2134101_1071399_zh.pdf,manufacturer_model_datasheet,model identity and conditional specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0027,Hokuyo,UST-15LX,,https://www.hokuyo-aut.jp/search/single.php?serial=245,manufacturer_product_spec,model identity and conditional specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0028,SLAMTEC,RPLIDAR S1,,https://wiki.slamtec.com/download/attachments/83066883/LD601_SLAMTEC_rplidar_datasheet_S1_v1.7_en.pdf?api=v2&modificationDate=1677815319000&version=1,manufacturer_datasheet,model identity and conditional specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0029,Livox,Mid-70,Mid-70,https://www.livoxtech.com/mid-70/specs,manufacturer_product_spec,model identity and conditional specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0030,Hesai,AT128,,https://www.hesaitech.com/product/at128/,manufacturer_product_spec,model identity and conditional specifications,model_specific_evidence,2026-10-10

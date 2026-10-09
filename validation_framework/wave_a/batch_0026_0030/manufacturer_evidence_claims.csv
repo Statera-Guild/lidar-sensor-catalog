@@ -1,0 +1,33 @@
+component_id,claim_key,claim_value,conditions_or_scope,source_url,claim_verification,device_test_status
+CMP-LDR-0026,part_number,1071399,SICK order number,https://cdn.sick.com/media/pdf/7/47/447/dataSheet_TIM361-2134101_1071399_zh.pdf,source_backed,not_tested
+CMP-LDR-0026,scan_range,0.05-10 m,working area,https://cdn.sick.com/media/pdf/7/47/447/dataSheet_TIM361-2134101_1071399_zh.pdf,source_backed,not_tested
+CMP-LDR-0026,range_10pct,8 m,10% remission,https://cdn.sick.com/media/pdf/7/47/447/dataSheet_TIM361-2134101_1071399_zh.pdf,source_backed,not_tested
+CMP-LDR-0026,horizontal_fov,270 deg,horizontal aperture,https://cdn.sick.com/media/pdf/7/47/447/dataSheet_TIM361-2134101_1071399_zh.pdf,source_backed,not_tested
+CMP-LDR-0026,scan_frequency,15 Hz,nominal,https://cdn.sick.com/media/pdf/7/47/447/dataSheet_TIM361-2134101_1071399_zh.pdf,source_backed,not_tested
+CMP-LDR-0026,ip_rating,IP67,Aux interface cover closed,https://cdn.sick.com/media/pdf/7/47/447/dataSheet_TIM361-2134101_1071399_zh.pdf,source_backed,not_tested
+CMP-LDR-0027,range_white,0.05-15 m,white Kent sheet,https://www.hokuyo-aut.jp/search/single.php?serial=245,source_backed,not_tested
+CMP-LDR-0027,range_10pct,0.05-6 m,10% diffuse reflectance,https://www.hokuyo-aut.jp/search/single.php?serial=245,source_backed,not_tested
+CMP-LDR-0027,horizontal_fov,270 deg,scan angle,https://www.hokuyo-aut.jp/search/single.php?serial=245,source_backed,not_tested
+CMP-LDR-0027,scan_period,25 ms,40 Hz,https://www.hokuyo-aut.jp/search/single.php?serial=245,source_backed,not_tested
+CMP-LDR-0027,interface,Ethernet 100BASE-TX,manufacturer spec,https://www.hokuyo-aut.jp/search/single.php?serial=245,source_backed,not_tested
+CMP-LDR-0027,ip_rating,IP67,manufacturer spec,https://www.hokuyo-aut.jp/search/single.php?serial=245,source_backed,not_tested
+CMP-LDR-0028,range_white,40 m,white target; datasheet v1.7,https://wiki.slamtec.com/download/attachments/83066883/LD601_SLAMTEC_rplidar_datasheet_S1_v1.7_en.pdf?api=v2&modificationDate=1677815319000&version=1,source_backed,not_tested
+CMP-LDR-0028,range_black,10 m,black target; datasheet v1.7,https://wiki.slamtec.com/download/attachments/83066883/LD601_SLAMTEC_rplidar_datasheet_S1_v1.7_en.pdf?api=v2&modificationDate=1677815319000&version=1,source_backed,not_tested
+CMP-LDR-0028,horizontal_fov,360 deg,2D planar scanner,https://wiki.slamtec.com/download/attachments/83066883/LD601_SLAMTEC_rplidar_datasheet_S1_v1.7_en.pdf?api=v2&modificationDate=1677815319000&version=1,source_backed,not_tested
+CMP-LDR-0028,sample_rate,9200 samples/s,typical at 10 Hz,https://wiki.slamtec.com/download/attachments/83066883/LD601_SLAMTEC_rplidar_datasheet_S1_v1.7_en.pdf?api=v2&modificationDate=1677815319000&version=1,source_backed,not_tested
+CMP-LDR-0028,scan_frequency,8-15 Hz,adjustable; typical 10 Hz,https://wiki.slamtec.com/download/attachments/83066883/LD601_SLAMTEC_rplidar_datasheet_S1_v1.7_en.pdf?api=v2&modificationDate=1677815319000&version=1,source_backed,not_tested
+CMP-LDR-0028,interface,TTL UART,datasheet,https://wiki.slamtec.com/download/attachments/83066883/LD601_SLAMTEC_rplidar_datasheet_S1_v1.7_en.pdf?api=v2&modificationDate=1677815319000&version=1,source_backed,not_tested
+CMP-LDR-0029,range_10pct,90 m,10% reflectivity at 100 klx,https://www.livoxtech.com/mid-70/specs,source_backed,not_tested
+CMP-LDR-0029,range_20pct,130 m,20% reflectivity at 100 klx,https://www.livoxtech.com/mid-70/specs,source_backed,not_tested
+CMP-LDR-0029,range_80pct,260 m,80% reflectivity at 100 klx,https://www.livoxtech.com/mid-70/specs,source_backed,not_tested
+CMP-LDR-0029,fov,70.4 deg circular,circular field of view,https://www.livoxtech.com/mid-70/specs,source_backed,not_tested
+CMP-LDR-0029,point_rate_single,100000 points/s,first or strongest return,https://www.livoxtech.com/mid-70/specs,source_backed,not_tested
+CMP-LDR-0029,point_rate_dual,200000 points/s,dual return,https://www.livoxtech.com/mid-70/specs,source_backed,not_tested
+CMP-LDR-0029,time_sync,PTPv2 / PPS / GPS,manufacturer spec,https://www.livoxtech.com/mid-70/specs,source_backed,not_tested
+CMP-LDR-0029,ip_rating,IP67,sensor only; excludes converter and cables,https://www.livoxtech.com/mid-70/specs,source_backed,not_tested
+CMP-LDR-0030,range_10pct,210 m,10% reflectivity; typical manufacturer value,https://www.hesaitech.com/product/at128/,source_backed,not_tested
+CMP-LDR-0030,fov,120 x 25.4 deg,horizontal x vertical,https://www.hesaitech.com/product/at128/,source_backed,not_tested
+CMP-LDR-0030,point_rate_single,1536000 points/s,single return,https://www.hesaitech.com/product/at128/,source_backed,not_tested
+CMP-LDR-0030,angular_resolution,0.1 x 0.2 deg,horizontal x vertical,https://www.hesaitech.com/product/at128/,source_backed,not_tested
+CMP-LDR-0030,power,13.5 W,typical,https://www.hesaitech.com/product/at128/,source_backed,not_tested
+CMP-LDR-0030,dimensions,136 x 114 x 49 mm,W x D x H,https://www.hesaitech.com/product/at128/,source_backed,not_tested

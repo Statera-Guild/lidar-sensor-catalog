@@ -1,0 +1,6 @@
+component_id,algorithm_or_stack,test_status,evidence_note,next_gate
+CMP-LDR-0026,ROS2,not_tested,No ROS2 driver interoperability or latency test performed,requires_hardware_or_replay_test
+CMP-LDR-0027,ROS2,not_tested,No ROS2 driver interoperability or latency test performed,requires_hardware_or_replay_test
+CMP-LDR-0028,ROS2,not_tested,No ROS2 driver interoperability or latency test performed,requires_hardware_or_replay_test
+CMP-LDR-0029,ROS2,not_tested,No ROS2 driver interoperability or latency test performed,requires_hardware_or_replay_test
+CMP-LDR-0030,ROS2,not_tested,No ROS2 driver interoperability or latency test performed,requires_hardware_or_replay_test

@@ -1,0 +1,6 @@
+component_id,sensor_class,potential_use,raw_scan_stream,ros2_laserscan,algorithm_test_status,integration_caution
+CMP-LDR-0051,2D scanner,2D obstacle detection / SLAM candidate,requires_sdk_and_device_validation,not_assumed,not_tested,Ethernet UDP model; ROS2 interface must be validated with SDK and actual hardware.
+CMP-LDR-0052,2D scanner,2D obstacle detection / SLAM candidate,requires_sdk_and_device_validation,not_assumed,not_tested,Manufacturer support page labels A2M8 datasheet no sale; procurement availability unverified.
+CMP-LDR-0053,2D scanner,2D obstacle detection / SLAM candidate,requires_sdk_and_device_validation,not_assumed,not_tested,Manufacturer series-level specifications; device and ROS2 test pending.
+CMP-LDR-0054,2D scanner,2D obstacle detection / SLAM candidate,requires_sdk_and_device_validation,not_assumed,not_tested,SDK and ROS2 driver compatibility not validated; no safety certification inferred.
+CMP-LDR-0055,2D area monitoring sensor,area monitoring / PLC field output,manufacturer_says_no_point_cloud,not_assumed,not_tested,AREA MONITORING ONLY: manufacturer specifies point cloud output NIL; do not classify as raw LaserScan source or safety-rated scanner.

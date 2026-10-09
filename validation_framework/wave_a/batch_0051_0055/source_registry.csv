@@ -1,0 +1,6 @@
+source_id,component_id,manufacturer,source_type,source_url,access_date,evidence_status
+SRC-LDR-0051,CMP-LDR-0051,SLAMTEC,official_manufacturer_specification,https://www.slamtec.com/en/s2/spec,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0052,CMP-LDR-0052,SLAMTEC,official_manufacturer_specification,https://www.slamtec.com/en/lidar/a2spec,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0053,CMP-LDR-0053,SLAMTEC,official_manufacturer_specification,https://www.slamtec.com/en/lidar/a2spec,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0054,CMP-LDR-0054,SLAMTEC,official_manufacturer_specification,https://www.slamtec.com/en/t1/spec,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0055,CMP-LDR-0055,SLAMTEC,official_manufacturer_specification,https://www.slamtec.com/en/e3/spec,2026-10-10,manufacturer_claim_not_independently_verified

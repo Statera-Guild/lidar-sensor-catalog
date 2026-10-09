@@ -1,0 +1,43 @@
+claim_id,component_id,source_id,property,value,unit,evidence_url,verification_status,note
+CLM-LDR-0051-01,CMP-LDR-0051,SRC-LDR-0051,distance_90pct_m,0.05-30,m,https://www.slamtec.com/en/s2/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0051-02,CMP-LDR-0051,SRC-LDR-0051,distance_10pct_m,0.05-10,m,https://www.slamtec.com/en/s2/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0051-03,CMP-LDR-0051,SRC-LDR-0051,scan_rate,10,Hz,https://www.slamtec.com/en/s2/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0051-04,CMP-LDR-0051,SRC-LDR-0051,sample_rate,32000,samples/s,https://www.slamtec.com/en/s2/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0051-05,CMP-LDR-0051,SRC-LDR-0051,angular_resolution,0.1125,deg,https://www.slamtec.com/en/s2/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0051-06,CMP-LDR-0051,SRC-LDR-0051,interface,Ethernet UDP 10/100M,text,https://www.slamtec.com/en/s2/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0051-07,CMP-LDR-0051,SRC-LDR-0051,voltage,12,V,https://www.slamtec.com/en/s2/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0051-08,CMP-LDR-0051,SRC-LDR-0051,protection,IP65,rating,https://www.slamtec.com/en/s2/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0052-01,CMP-LDR-0052,SRC-LDR-0052,distance_max,12,m,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0052-02,CMP-LDR-0052,SRC-LDR-0052,distance_min,0.2,m,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0052-03,CMP-LDR-0052,SRC-LDR-0052,sample_rate,8000,samples/s,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0052-04,CMP-LDR-0052,SRC-LDR-0052,scan_rate_typical,10,Hz,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0052-05,CMP-LDR-0052,SRC-LDR-0052,scan_rate_range,5-15,Hz,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0052-06,CMP-LDR-0052,SRC-LDR-0052,angular_resolution,0.45,deg,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0052-07,CMP-LDR-0052,SRC-LDR-0052,angular_range,360,deg,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0052-08,CMP-LDR-0052,SRC-LDR-0052,interface,UART 115200 bps,text,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0053-01,CMP-LDR-0053,SRC-LDR-0053,distance_max,12,m,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0053-02,CMP-LDR-0053,SRC-LDR-0053,distance_min,0.2,m,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0053-03,CMP-LDR-0053,SRC-LDR-0053,sample_rate,16000,samples/s,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0053-04,CMP-LDR-0053,SRC-LDR-0053,scan_rate_typical,10,Hz,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0053-05,CMP-LDR-0053,SRC-LDR-0053,scan_rate_range,5-15,Hz,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0053-06,CMP-LDR-0053,SRC-LDR-0053,angular_resolution,0.225,deg,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0053-07,CMP-LDR-0053,SRC-LDR-0053,angular_range,360,deg,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0053-08,CMP-LDR-0053,SRC-LDR-0053,interface,UART 256000 bps,text,https://www.slamtec.com/en/lidar/a2spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-01,CMP-LDR-0054,SRC-LDR-0054,distance_70pct_m,0.05-40,m,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-02,CMP-LDR-0054,SRC-LDR-0054,distance_10pct_m,0.05-15,m,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-03,CMP-LDR-0054,SRC-LDR-0054,angular_range,270,deg,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-04,CMP-LDR-0054,SRC-LDR-0054,sample_rate,60000,samples/s,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-05,CMP-LDR-0054,SRC-LDR-0054,scan_rate_typical,20,Hz,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-06,CMP-LDR-0054,SRC-LDR-0054,scan_rate_range,20-40,Hz,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-07,CMP-LDR-0054,SRC-LDR-0054,angular_resolution,0.12,deg,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-08,CMP-LDR-0054,SRC-LDR-0054,interface,Ethernet,text,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-09,CMP-LDR-0054,SRC-LDR-0054,voltage,9-28,VDC,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0054-10,CMP-LDR-0054,SRC-LDR-0054,power_typical,4,W,https://www.slamtec.com/en/t1/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0055-01,CMP-LDR-0055,SRC-LDR-0055,distance_70pct_m,0.05-40,m,https://www.slamtec.com/en/e3/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0055-02,CMP-LDR-0055,SRC-LDR-0055,warning_distance_10pct_m,0.05-15,m,https://www.slamtec.com/en/e3/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0055-03,CMP-LDR-0055,SRC-LDR-0055,alarm_distance_2pct_m,0.05-5,m,https://www.slamtec.com/en/e3/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0055-04,CMP-LDR-0055,SRC-LDR-0055,scan_rate,10/15/20,Hz,https://www.slamtec.com/en/e3/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0055-05,CMP-LDR-0055,SRC-LDR-0055,angular_resolution_at_10hz,0.1125,deg,https://www.slamtec.com/en/e3/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0055-06,CMP-LDR-0055,SRC-LDR-0055,monitoring_field_sets_at_20hz,64,sets,https://www.slamtec.com/en/e3/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0055-07,CMP-LDR-0055,SRC-LDR-0055,field_output,IO,text,https://www.slamtec.com/en/e3/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.
+CLM-LDR-0055-08,CMP-LDR-0055,SRC-LDR-0055,point_cloud_output,NIL,text,https://www.slamtec.com/en/e3/spec,not_verified,Manufacturer-stated; reflectivity and operating conditions apply where specified.

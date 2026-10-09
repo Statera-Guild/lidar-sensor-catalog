@@ -11,9 +11,9 @@ See `validation_framework/integration/master_catalog_0001_0010.csv`.
 <!-- PAI-SG-LIDAR-CATALOG:START -->
 ## LiDAR Sensor Catalog — Component Index
 
-**Registered: 50 / 80 (62.5%) · Waves 1–10**
+**Registered: 55 / 80 (68.75%) · Waves 1–11**
 
-This index is generated from `validation_framework/integration/master_catalog_0001_0050.csv`.
+This index is generated from `validation_framework/integration/master_catalog_0001_0055.csv`.
 Manufacturer specifications are evidence-backed catalog claims, **not hardware or ROS2/algorithm test results**.
 
 | Component ID | Manufacturer | Model | Catalog status | Verification | Algorithm test |
@@ -68,5 +68,10 @@ Manufacturer specifications are evidence-backed catalog claims, **not hardware o
 | [CMP-LDR-0048](component_cards/CMP-LDR-0048.md) | SLAMTEC | RPLIDAR S2P | listed | not_verified | not_tested |
 | [CMP-LDR-0049](component_cards/CMP-LDR-0049.md) | Hesai | Pandar64 | listed | not_verified | not_tested |
 | [CMP-LDR-0050](component_cards/CMP-LDR-0050.md) | SICK | LMS511-1x100 | family_listed | not_verified | not_tested |
+| [CMP-LDR-0051](component_cards/CMP-LDR-0051.md) | SLAMTEC | RPLIDAR S2E | listed | not_verified | not_tested |
+| [CMP-LDR-0052](component_cards/CMP-LDR-0052.md) | SLAMTEC | RPLIDAR A2M8 | listed | not_verified | not_tested |
+| [CMP-LDR-0053](component_cards/CMP-LDR-0053.md) | SLAMTEC | RPLIDAR A2M12 | listed | not_verified | not_tested |
+| [CMP-LDR-0054](component_cards/CMP-LDR-0054.md) | SLAMTEC | LPX-T1M4 | listed | not_verified | not_tested |
+| [CMP-LDR-0055](component_cards/CMP-LDR-0055.md) | SLAMTEC | LPX-E3P2 | listed | not_verified | not_tested |
 
 <!-- PAI-SG-LIDAR-CATALOG:END -->

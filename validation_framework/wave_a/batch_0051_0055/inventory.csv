@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-LDR-0051,SLAMTEC,RPLIDAR S2E,S2M1-RxE,listed,not_verified,not_tested,wave_11
+CMP-LDR-0052,SLAMTEC,RPLIDAR A2M8,A2M8,listed,not_verified,not_tested,wave_11
+CMP-LDR-0053,SLAMTEC,RPLIDAR A2M12,A2M12,listed,not_verified,not_tested,wave_11
+CMP-LDR-0054,SLAMTEC,LPX-T1M4,T1M4,listed,not_verified,not_tested,wave_11
+CMP-LDR-0055,SLAMTEC,LPX-E3P2,E3P2,listed,not_verified,not_tested,wave_11

@@ -1,0 +1,3 @@
+# Wave 16 Evidence Review
+
+Official Innoviz product and model pages checked 2026-10-10. SMART Raven, SMART Raven+ and SMART Hawk data originate from the manufacturer comparison table at https://innoviz.tech/products; InnovizTwo and InnovizTwo Slim from their dedicated manufacturer pages. Published ranges may use 10-percent-reflectivity targets; maximum digital range is a distinct metric. SMART Hawk was announced as available Q3 2026, but current purchase availability is not independently verified. No exact SKU, ROS2, device, algorithm or safety system was tested. All claims remain `not_verified`. No confidential cost or BOM data.

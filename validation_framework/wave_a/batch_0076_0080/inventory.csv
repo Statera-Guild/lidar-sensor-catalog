@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-LDR-0076,Innoviz Technologies,SMART Raven,SMART Raven / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_16
+CMP-LDR-0077,Innoviz Technologies,SMART Raven+,SMART Raven+ / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_16
+CMP-LDR-0078,Innoviz Technologies,SMART Hawk,SMART Hawk / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_16
+CMP-LDR-0079,Innoviz Technologies,InnovizTwo,InnovizTwo / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_16
+CMP-LDR-0080,Innoviz Technologies,InnovizTwo Slim,InnovizTwo Slim / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_16

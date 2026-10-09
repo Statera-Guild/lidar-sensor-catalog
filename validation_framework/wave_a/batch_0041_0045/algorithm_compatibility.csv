@@ -1,0 +1,6 @@
+component_id,algorithm_family,compatibility_status,test_status,notes
+CMP-LDR-0041,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; firmware and point cloud integration pending
+CMP-LDR-0042,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; firmware and point cloud integration pending
+CMP-LDR-0043,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; firmware and point cloud integration pending
+CMP-LDR-0044,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; firmware and point cloud integration pending
+CMP-LDR-0045,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; firmware and point cloud integration pending

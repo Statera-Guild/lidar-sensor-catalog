@@ -1,0 +1,7 @@
+component_id,manufacturer,model,proposed_sku,source_url,source_type,claim_scope,evidence_status,access_date
+CMP-LDR-0041,Hokuyo,UGM-50LXP,UUGM001,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_product_spec,manufacturer-published model-specific or family-specific specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0042,Hokuyo,YVT-35LX-F0,,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_product_spec,manufacturer-published model-specific or family-specific specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0043,SLAMTEC,RPLIDAR A1,,https://www.slamtec.com/en/lidar/a1spec,manufacturer_product_spec,manufacturer-published model-specific or family-specific specifications,family_level_evidence,2026-10-10
+CMP-LDR-0044,Hesai,Pandar40P,,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar40P_User_Manual_402-en-241220.pdf,manufacturer_user_manual,manufacturer-published model-specific or family-specific specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0044,Hesai,Pandar40P,,https://www.hesaitech.com/critical-features-of-hesai-pandar40p/,manufacturer_technical_article,Pandar40P range and PTP explanation,model_specific_evidence,2026-10-10
+CMP-LDR-0045,Hokuyo,UST-10LXB-H02,UUST163,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_product_spec,manufacturer-published model-specific or family-specific specifications,model_specific_evidence,2026-10-10

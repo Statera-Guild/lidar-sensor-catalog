@@ -1,0 +1,46 @@
+component_id,claim_key,claim_value,conditions_or_scope,source_url,evidence_type,verification_status
+CMP-LDR-0041,range_10pct,0.1-50 m,10% reflectance black paper 500x500mm; guaranteed detection,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0041,range_90pct,0.1-120 m,90% reflectance white Kent paper 1400x1400mm; guaranteed detection,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0041,scan_angle,190 deg,planar,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0041,scan_period_normal,20 ms,normal mode 3000rpm,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0041,angular_resolution_normal,approx 0.32 deg,normal mode,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0041,angular_resolution_high,approx 0.08 deg,high resolution mode 80ms,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0041,ingress_protection,IP67,manufacturer-published,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0041,interface,Ethernet,M12 D-coded Ethernet connector,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0041,power,24 W or less,sensor steady state; heater separate up to 48W,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0041,output_type,PNP,UGM-50LXP only; NPN is UGM-50LXN,https://www.hokuyo-aut.jp/search/single.php?serial=231,manufacturer_published,not_verified
+CMP-LDR-0042,horizontal_fov,210 deg,horizontal steering,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0042,vertical_fov,40 deg,-5 to +35 deg,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0042,range_white_center,0.3-35 m,white paper; center forward sector -45 to +45 deg at vertical +15 deg,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0042,range_10pct_center,0.3-11 m,10% reflectance black paper; center forward sector,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0042,points_per_frame,2590 or more,non-interlace at 20 fps,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0042,frame_rate,20 fps,non-interlace mode,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0042,multi_echo,up to 4,reported returns,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0042,interface,Ethernet 100BASE-TX,TCP/IP,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0042,time_sync,PPS input,not proof of PTP support,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0042,ingress_protection,IP67,manufacturer conditions; not functional safety rated,https://www.hokuyo-aut.jp/search/single.php?serial=224,manufacturer_published,not_verified
+CMP-LDR-0043,measuring_range,0.15-12 m,manufacturer A1 spec; range depends on target,https://www.slamtec.com/en/lidar/a1spec,manufacturer_published,not_verified
+CMP-LDR-0043,scan_angle,360 deg,planar,https://www.slamtec.com/en/lidar/a1spec,manufacturer_published,not_verified
+CMP-LDR-0043,sampling_frequency,8000 samples/s,manufacturer A1 spec,https://www.slamtec.com/en/lidar/a1spec,manufacturer_published,not_verified
+CMP-LDR-0043,rotational_speed,5.5 Hz,nominal spec; adjustable 2-10Hz described on overview,https://www.slamtec.com/en/lidar/a1spec,manufacturer_published,not_verified
+CMP-LDR-0043,angular_resolution,<=1 deg,manufacturer spec,https://www.slamtec.com/en/lidar/a1spec,manufacturer_published,not_verified
+CMP-LDR-0043,output,UART serial 3.3V,electrical UART output; USB via adapter is distinct,https://www.slamtec.com/en/lidar/a1spec,manufacturer_published,not_verified
+CMP-LDR-0043,power,0.5 W,5V 100mA nominal,https://www.slamtec.com/en/lidar/a1spec,manufacturer_published,not_verified
+CMP-LDR-0043,operating_temperature,0 to 40 C,manufacturer spec,https://www.slamtec.com/en/lidar/a1spec,manufacturer_published,not_verified
+CMP-LDR-0044,laser_channels,40,Pandar40P channel distribution / model naming; see manufacturer manual,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar40P_User_Manual_402-en-241220.pdf,manufacturer_published,not_verified
+CMP-LDR-0044,range_10pct,200 m,10% reflectivity; manufacturer Pandar40P product article and manual channel-dependent capability,https://www.hesaitech.com/critical-features-of-hesai-pandar40p/,manufacturer_published,not_verified
+CMP-LDR-0044,data_transmission,100BASE-TX,manufacturer manual,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar40P_User_Manual_402-en-241220.pdf,manufacturer_published,not_verified
+CMP-LDR-0044,single_return_points,720000 points/s,single-return configuration,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar40P_User_Manual_402-en-241220.pdf,manufacturer_published,not_verified
+CMP-LDR-0044,dual_return_points,1440000 points/s,dual-return configuration,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar40P_User_Manual_402-en-241220.pdf,manufacturer_published,not_verified
+CMP-LDR-0044,time_sync,GPS/PTP,PTP 1588v2 and 802.1AS listed,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar40P_User_Manual_402-en-241220.pdf,manufacturer_published,not_verified
+CMP-LDR-0044,power,18 W typical,manufacturer manual,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar40P_User_Manual_402-en-241220.pdf,manufacturer_published,not_verified
+CMP-LDR-0044,ingress_protection,IP6K7,manufacturer manual,https://www.hesaitech.com/wp-content/uploads/2025/04/Pandar40P_User_Manual_402-en-241220.pdf,manufacturer_published,not_verified
+CMP-LDR-0045,range_white,0.06-10 m,white Kent sheet; guaranteed,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_published,not_verified
+CMP-LDR-0045,range_10pct,0.06-4 m,10% diffuse reflectance; guaranteed,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_published,not_verified
+CMP-LDR-0045,max_output_distance,30 m,output limit; not guaranteed detection,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_published,not_verified
+CMP-LDR-0045,scan_angle,270 deg,planar,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_published,not_verified
+CMP-LDR-0045,scan_period,25 ms,40Hz,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_published,not_verified
+CMP-LDR-0045,angular_resolution,0.125 deg,H02 PoE variant,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_published,not_verified
+CMP-LDR-0045,power_interface,PoE IEEE 802.3af Class 0,37-57V; 3W normal 5W startup,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_published,not_verified
+CMP-LDR-0045,interface,Ethernet 100BASE-TX,single LAN cable via PoE,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_published,not_verified
+CMP-LDR-0045,ingress_protection,IP40,not weatherproof,https://www.hokuyo-aut.jp/search/single.php?serial=256,manufacturer_published,not_verified

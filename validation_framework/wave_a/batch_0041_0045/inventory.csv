@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,provisional_class,catalog_status,verification_status,algorithm_test_status,record_date,wave
+CMP-LDR-0041,Hokuyo,UGM-50LXP,UUGM001,2D planar,listed,not_verified,not_tested,2026-10-10,wave_09
+CMP-LDR-0042,Hokuyo,YVT-35LX-F0,,3D scanning,listed,not_verified,not_tested,2026-10-10,wave_09
+CMP-LDR-0043,SLAMTEC,RPLIDAR A1,,2D planar,listed,not_verified,not_tested,2026-10-10,wave_09
+CMP-LDR-0044,Hesai,Pandar40P,,3D spinning,listed,not_verified,not_tested,2026-10-10,wave_09
+CMP-LDR-0045,Hokuyo,UST-10LXB-H02,UUST163,2D planar,listed,not_verified,not_tested,2026-10-10,wave_09

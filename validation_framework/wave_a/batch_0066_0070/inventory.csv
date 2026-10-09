@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,catalog_status,verification_status,algorithm_test_status,wave
+CMP-LDR-0066,Hesai,ATX,ATX / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_14
+CMP-LDR-0067,Hesai,OT128,OT128 / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_14
+CMP-LDR-0068,Hesai,JT128,JT128 / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_14
+CMP-LDR-0069,Hesai,JT32,JT32 / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_14
+CMP-LDR-0070,Hesai,FTX,FTX / exact orderable SKU to confirm,listed,not_verified,not_tested,wave_14

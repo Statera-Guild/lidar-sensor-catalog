@@ -11,9 +11,9 @@ See `validation_framework/integration/master_catalog_0001_0010.csv`.
 <!-- PAI-SG-LIDAR-CATALOG:START -->
 ## LiDAR Sensor Catalog — Component Index
 
-**Registered: 65 / 80 (81.25%) · Waves 1–13**
+**Registered: 70 / 80 (87.5%) · Waves 1–14**
 
-This index is generated from `validation_framework/integration/master_catalog_0001_0065.csv`.
+This index is generated from `validation_framework/integration/master_catalog_0001_0070.csv`.
 Manufacturer specifications are evidence-backed catalog claims, **not hardware or ROS2/algorithm test results**.
 
 | Component ID | Manufacturer | Model | Catalog status | Verification | Algorithm test |
@@ -83,5 +83,10 @@ Manufacturer specifications are evidence-backed catalog claims, **not hardware o
 | [CMP-LDR-0063](component_cards/CMP-LDR-0063.md) | SICK | MRS6000 | family_listed | not_verified | not_tested |
 | [CMP-LDR-0064](component_cards/CMP-LDR-0064.md) | SICK | LRS4000 | family_listed | not_verified | not_tested |
 | [CMP-LDR-0065](component_cards/CMP-LDR-0065.md) | SICK | LMS4xx | family_listed | not_verified | not_tested |
+| [CMP-LDR-0066](component_cards/CMP-LDR-0066.md) | Hesai | ATX | listed | not_verified | not_tested |
+| [CMP-LDR-0067](component_cards/CMP-LDR-0067.md) | Hesai | OT128 | listed | not_verified | not_tested |
+| [CMP-LDR-0068](component_cards/CMP-LDR-0068.md) | Hesai | JT128 | listed | not_verified | not_tested |
+| [CMP-LDR-0069](component_cards/CMP-LDR-0069.md) | Hesai | JT32 | listed | not_verified | not_tested |
+| [CMP-LDR-0070](component_cards/CMP-LDR-0070.md) | Hesai | FTX | listed | not_verified | not_tested |
 
 <!-- PAI-SG-LIDAR-CATALOG:END -->

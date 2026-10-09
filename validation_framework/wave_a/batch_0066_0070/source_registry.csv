@@ -1,0 +1,6 @@
+source_id,component_id,manufacturer,source_type,source_url,access_date,evidence_status
+SRC-LDR-0066,CMP-LDR-0066,Hesai,official_manufacturer_specification,https://www.hesaitech.com/product/atx/,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0067,CMP-LDR-0067,Hesai,official_manufacturer_specification,https://www.hesaitech.com/product/ot128/,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0068,CMP-LDR-0068,Hesai,official_manufacturer_specification,https://www.hesaitech.com/product/jt128/,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0069,CMP-LDR-0069,Hesai,official_manufacturer_specification,https://www.hesaitech.com/product/jt16/,2026-10-10,manufacturer_claim_not_independently_verified
+SRC-LDR-0070,CMP-LDR-0070,Hesai,official_manufacturer_specification,https://www.hesaitech.com/product/ftx/,2026-10-10,manufacturer_claim_not_independently_verified

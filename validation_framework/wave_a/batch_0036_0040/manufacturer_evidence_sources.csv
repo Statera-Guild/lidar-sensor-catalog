@@ -1,0 +1,6 @@
+component_id,manufacturer,model,proposed_sku,source_url,source_type,claim_scope,evidence_status,access_date
+CMP-LDR-0036,Hokuyo,UST-10LX-H01,,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_product_spec,manufacturer-published model or variant specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0037,Hokuyo,UST-20LX-H01,,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_product_spec,manufacturer-published model or variant specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0038,Livox,Mid-40,,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_product_spec,manufacturer-published model or variant specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0039,Livox,Mid-100,,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_product_spec,manufacturer-published model or variant specifications,model_specific_evidence,2026-10-10
+CMP-LDR-0040,Hesai,Pandar128,,https://www.hesaitech.com/product/Pandar128/,manufacturer_product_spec,manufacturer-published model or variant specifications,model_specific_evidence,2026-10-10

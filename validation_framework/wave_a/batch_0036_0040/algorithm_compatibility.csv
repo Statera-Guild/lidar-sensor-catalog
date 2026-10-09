@@ -1,0 +1,6 @@
+component_id,algorithm_family,compatibility_status,test_status,notes
+CMP-LDR-0036,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; protocol/firmware compatibility pending
+CMP-LDR-0037,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; protocol/firmware compatibility pending
+CMP-LDR-0038,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; protocol/firmware compatibility pending
+CMP-LDR-0039,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; protocol/firmware compatibility pending
+CMP-LDR-0040,ROS2 / SLAM / perception,candidate_only,not_tested,No driver or algorithm execution performed; protocol/firmware compatibility pending

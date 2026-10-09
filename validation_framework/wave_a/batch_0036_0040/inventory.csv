@@ -1,0 +1,6 @@
+component_id,manufacturer,model,orderable_sku,provisional_class,catalog_status,verification_status,algorithm_test_status,record_date,wave
+CMP-LDR-0036,Hokuyo,UST-10LX-H01,,2D planar,listed,not_verified,not_tested,2026-10-10,wave_08
+CMP-LDR-0037,Hokuyo,UST-20LX-H01,,2D planar,listed,not_verified,not_tested,2026-10-10,wave_08
+CMP-LDR-0038,Livox,Mid-40,,3D non-repetitive,listed,not_verified,not_tested,2026-10-10,wave_08
+CMP-LDR-0039,Livox,Mid-100,,3D non-repetitive,listed,not_verified,not_tested,2026-10-10,wave_08
+CMP-LDR-0040,Hesai,Pandar128,,3D rotating,listed,not_verified,not_tested,2026-10-10,wave_08

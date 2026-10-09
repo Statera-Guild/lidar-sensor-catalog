@@ -1,0 +1,40 @@
+component_id,claim_key,claim_value,conditions_or_scope,source_url,evidence_type,verification_status
+CMP-LDR-0036,range_white,0.06-10 m,white Kent sheet,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0036,range_10pct,0.06-4 m,10% diffuse reflectance,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0036,max_data_distance,30 m,maximum output distance; not guaranteed detection,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0036,scan_angle,270 deg,planar scan,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0036,scan_period,25 ms,40 Hz,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0036,angular_resolution,0.125 deg,H01-specific; do not confuse with standard UST-10LX,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0036,interface,Ethernet 100BASE-TX,manufacturer published,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0036,ambient_light,less than 15000 lx,H01-specific; not standard variant,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0037,range_white,0.06-20 m,white Kent sheet,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0037,range_10pct,0.06-8 m,10% diffuse reflectance,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0037,max_data_distance,60 m,maximum output distance; not guaranteed detection,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0037,scan_angle,270 deg,planar scan,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0037,scan_period,25 ms,40 Hz,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0037,angular_resolution,0.125 deg,H01-specific; do not confuse with standard UST-20LX,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0037,interface,Ethernet 100BASE-TX,manufacturer published,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0037,ambient_light,less than 15000 lx,H01-specific; not standard variant,https://www.hokuyo-aut.jp/search/single.php?serial=167,manufacturer_published,not_verified
+CMP-LDR-0038,range_10pct,90 m,10% reflectivity at 100 klx,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0038,range_20pct,130 m,20% reflectivity at 100 klx,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0038,range_80pct,260 m,80% reflectivity at 100 klx; not 10% range,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0038,fov,38.4 deg circular,Mid-40 variant,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0038,point_rate,100000 points/s,Mid-40 variant,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0038,interface,Ethernet,manufacturer published,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0038,sync,IEEE 1588-2008 PTPv2; PPS,manufacturer capability; not bench-tested,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0038,power_typical,10 W,start-up power higher; fan IP55,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0039,range_10pct,90 m,10% reflectivity at 100 klx,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0039,range_20pct,130 m,20% reflectivity at 100 klx,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0039,range_80pct,260 m,80% reflectivity at 100 klx; not 10% range,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0039,fov,98.4 x 38.4 deg,horizontal x vertical; Mid-100 variant,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0039,point_rate,300000 points/s,Mid-100 variant,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0039,interface,Ethernet,manufacturer published,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0039,sync,IEEE 1588-2008 PTPv2; PPS,manufacturer capability; not bench-tested,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0039,power_typical,30 W,start-up power higher; fan IP55,https://www.livoxtech.com/mid-40-and-mid-100/specs,manufacturer_published,not_verified
+CMP-LDR-0040,channels,128,manufacturer model designation,https://www.hesaitech.com/product/Pandar128/,manufacturer_published,not_verified
+CMP-LDR-0040,range_10pct,200 m,10% reflectivity; manufacturer typical,https://www.hesaitech.com/product/Pandar128/,manufacturer_published,not_verified
+CMP-LDR-0040,fov,360 x 40 deg,horizontal x vertical,https://www.hesaitech.com/product/Pandar128/,manufacturer_published,not_verified
+CMP-LDR-0040,point_rate_single,3456000 points/s,single return,https://www.hesaitech.com/product/Pandar128/,manufacturer_published,not_verified
+CMP-LDR-0040,point_rate_dual,6912000 points/s,dual return,https://www.hesaitech.com/product/Pandar128/,manufacturer_published,not_verified
+CMP-LDR-0040,angular_resolution,0.1 x 0.125 deg,horizontal at 10 Hz x vertical,https://www.hesaitech.com/product/Pandar128/,manufacturer_published,not_verified
+CMP-LDR-0040,dimensions,diameter 116 x height 123.7 mm,manufacturer published,https://www.hesaitech.com/product/Pandar128/,manufacturer_published,not_verified

@@ -1,0 +1,25 @@
+component_id,claim_key,claim_value,conditions_or_scope,source_url,claim_verification,device_test_status
+CMP-LDR-0016,scanning_range,25 m,manufacturer variant listing,https://www.sick.com/it/en/products/lidar-and-radar-sensors/lidar-sensors/tim/c/g570093?tab=selection,source_backed,not_tested
+CMP-LDR-0016,horizontal_fov,270 deg,manufacturer variant listing,https://www.sick.com/it/en/products/lidar-and-radar-sensors/lidar-sensors/tim/c/g570093?tab=selection,source_backed,not_tested
+CMP-LDR-0016,angular_resolution,0.33 deg,manufacturer variant listing,https://www.sick.com/it/en/products/lidar-and-radar-sensors/lidar-sensors/tim/c/g570093?tab=selection,source_backed,not_tested
+CMP-LDR-0016,scan_frequency,15 Hz,manufacturer variant listing,https://www.sick.com/it/en/products/lidar-and-radar-sensors/lidar-sensors/tim/c/g570093?tab=selection,source_backed,not_tested
+CMP-LDR-0017,range_white,0.06-5 m,white Kent sheet,https://www.hokuyo-aut.jp/search/single.php?serial=227,source_backed,not_tested
+CMP-LDR-0017,range_10pct,0.06-2 m,diffuse reflectance 10%,https://www.hokuyo-aut.jp/search/single.php?serial=227,source_backed,not_tested
+CMP-LDR-0017,horizontal_fov,270 deg,manufacturer spec,https://www.hokuyo-aut.jp/search/single.php?serial=227,source_backed,not_tested
+CMP-LDR-0017,scan_period,25 ms,manufacturer spec,https://www.hokuyo-aut.jp/search/single.php?serial=227,source_backed,not_tested
+CMP-LDR-0017,interface,100BASE-TX Ethernet,manufacturer spec,https://www.hokuyo-aut.jp/search/single.php?serial=227,source_backed,not_tested
+CMP-LDR-0018,range_70pct,0.05-12 m,70% reflectivity,https://www.slamtec.com/en/c1/spec,source_backed,not_tested
+CMP-LDR-0018,range_10pct,0.05-6 m,10% reflectivity,https://www.slamtec.com/en/c1/spec,source_backed,not_tested
+CMP-LDR-0018,sample_rate,5000 samples/s,manufacturer spec,https://www.slamtec.com/en/c1/spec,source_backed,not_tested
+CMP-LDR-0018,scan_frequency,8-12 Hz,10 Hz typical,https://www.slamtec.com/en/c1/spec,source_backed,not_tested
+CMP-LDR-0018,interface,TTL UART 460800,manufacturer spec,https://www.slamtec.com/en/c1/spec,source_backed,not_tested
+CMP-LDR-0019,range_10pct,150 m,100 klx,https://www.livoxtech.com/hap/specs,source_backed,not_tested
+CMP-LDR-0019,fov,120 x 25 deg,horizontal x vertical,https://www.livoxtech.com/hap/specs,source_backed,not_tested
+CMP-LDR-0019,point_rate,452000 points/s,first or strongest return,https://www.livoxtech.com/hap/specs,source_backed,not_tested
+CMP-LDR-0019,sync,gPTP,manufacturer spec,https://www.livoxtech.com/hap/specs,source_backed,not_tested
+CMP-LDR-0019,interface_T1,100BASE-T1,HAP T1 variant,https://www.livoxtech.com/hap/specs,source_backed,not_tested
+CMP-LDR-0019,interface_TX,100BASE-TX,HAP TX variant,https://www.livoxtech.com/hap/specs,source_backed,not_tested
+CMP-LDR-0020,range_10pct,20 m,manufacturer current page,https://ouster.com/products/hardware/osdome-lidar-sensor,source_backed,not_tested
+CMP-LDR-0020,max_range,250 m,manufacturer current page,https://ouster.com/products/hardware/osdome-lidar-sensor,source_backed,not_tested
+CMP-LDR-0020,vertical_fov,180 deg,manufacturer current page,https://ouster.com/products/hardware/osdome-lidar-sensor,source_backed,not_tested
+CMP-LDR-0020,point_rate,10.4 million points/s,manufacturer current page,https://ouster.com/products/hardware/osdome-lidar-sensor,source_backed,not_tested

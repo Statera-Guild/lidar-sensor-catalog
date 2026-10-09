@@ -1,0 +1,6 @@
+component_id,source_type,source_url,access_date,claim_scope,evidence_status,review_note
+CMP-LDR-0016,manufacturer_product_variant_listing,https://www.sick.com/it/en/products/lidar-and-radar-sensors/lidar-sensors/tim/c/g570093?tab=selection,2026-10-10,model_or_family_scope_see_evidence_review,source_backed,SICK part number 1099504; measuring data output; no machine-safety claim.
+CMP-LDR-0017,manufacturer_model_spec,https://www.hokuyo-aut.jp/search/single.php?serial=227,2026-10-10,model_or_family_scope_see_evidence_review,source_backed,15m maximum performance is not the specified 5m white-target range.
+CMP-LDR-0018,manufacturer_model_spec,https://www.slamtec.com/en/c1/spec,2026-10-10,model_or_family_scope_see_evidence_review,source_backed,Exact C1 kit SKU/revision unresolved; official ROS2 support statement is not a tested integration.
+CMP-LDR-0019,manufacturer_family_variant_spec,https://www.livoxtech.com/hap/specs,2026-10-10,model_or_family_scope_see_evidence_review,source_backed,Variant HAP T1 versus TX must be selected before procurement; interface differs.
+CMP-LDR-0020,manufacturer_current_product_page,https://ouster.com/products/hardware/osdome-lidar-sensor,2026-10-10,model_or_family_scope_see_evidence_review,source_backed,Rev8/current-page specifications; exact hardware revision and SKU not selected. Do not transpose values to other revisions.

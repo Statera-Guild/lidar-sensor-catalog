@@ -1,0 +1,6 @@
+component_id,algorithm_scope,compatibility_status,test_status,notes
+CMP-LDR-0016,SLAM / localization / obstacle perception,candidate_only,not_tested,No integration benchmark or device driver test performed
+CMP-LDR-0017,SLAM / localization / obstacle perception,candidate_only,not_tested,No integration benchmark or device driver test performed
+CMP-LDR-0018,SLAM / localization / obstacle perception,candidate_only,not_tested,No integration benchmark or device driver test performed
+CMP-LDR-0019,SLAM / localization / obstacle perception,candidate_only,not_tested,No integration benchmark or device driver test performed
+CMP-LDR-0020,SLAM / localization / obstacle perception,candidate_only,not_tested,No integration benchmark or device driver test performed

@@ -1,0 +1,6 @@
+component_id,manufacturer,model,proposed_sku,source_url,source_type,claim_scope,evidence_status,access_date
+CMP-LDR-0016,SICK,TiM581-2050101,TiM581-2050101,https://www.sick.com/it/en/products/lidar-and-radar-sensors/lidar-sensors/tim/c/g570093?tab=selection,manufacturer_product_variant_listing,scanning_range; horizontal_fov; angular_resolution; scan_frequency,model_specific_evidence,2026-10-10
+CMP-LDR-0017,Hokuyo,UST-05LX,UST-05LX,https://www.hokuyo-aut.jp/search/single.php?serial=227,manufacturer_model_spec,range_white; range_10pct; horizontal_fov; scan_period; interface,model_specific_evidence,2026-10-10
+CMP-LDR-0018,SLAMTEC,RPLIDAR C1,,https://www.slamtec.com/en/c1/spec,manufacturer_model_spec,range_70pct; range_10pct; sample_rate; scan_frequency; interface,model_specific_evidence,2026-10-10
+CMP-LDR-0019,Livox,HAP,,https://www.livoxtech.com/hap/specs,manufacturer_family_variant_spec,range_10pct; fov; point_rate; sync; interface_T1; interface_TX,family_variant_evidence,2026-10-10
+CMP-LDR-0020,Ouster,OSDome,,https://ouster.com/products/hardware/osdome-lidar-sensor,manufacturer_current_product_page,range_10pct; max_range; vertical_fov; point_rate,family_variant_evidence,2026-10-10

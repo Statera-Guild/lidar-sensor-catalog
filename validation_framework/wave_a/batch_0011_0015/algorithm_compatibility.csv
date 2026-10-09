@@ -1,0 +1,16 @@
+component_id,algorithm,compatibility_status,test_status
+CMP-LDR-0011,SLAM,candidate,not_tested
+CMP-LDR-0011,object_detection,candidate,not_tested
+CMP-LDR-0011,tracking,candidate,not_tested
+CMP-LDR-0012,SLAM,candidate,not_tested
+CMP-LDR-0012,object_detection,candidate,not_tested
+CMP-LDR-0012,tracking,candidate,not_tested
+CMP-LDR-0013,SLAM,candidate,not_tested
+CMP-LDR-0013,object_detection,candidate,not_tested
+CMP-LDR-0013,tracking,candidate,not_tested
+CMP-LDR-0014,SLAM,candidate,not_tested
+CMP-LDR-0014,object_detection,candidate,not_tested
+CMP-LDR-0014,tracking,candidate,not_tested
+CMP-LDR-0015,SLAM,candidate,not_tested
+CMP-LDR-0015,object_detection,candidate,not_tested
+CMP-LDR-0015,tracking,candidate,not_tested

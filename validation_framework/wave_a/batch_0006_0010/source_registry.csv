@@ -1,6 +1,6 @@
 component_id,source_type,source_url,access_date,claim_scope,evidence_status,review_note
-CMP-LDR-0006,pending_model_specific_evidence,,,discovery_candidate_only,pending,Do not promote until manufacturer evidence recorded
-CMP-LDR-0007,pending_model_specific_evidence,,,discovery_candidate_only,pending,Do not promote until manufacturer evidence recorded
-CMP-LDR-0008,pending_model_specific_evidence,,,discovery_candidate_only,pending,Do not promote until manufacturer evidence recorded
-CMP-LDR-0009,pending_model_specific_evidence,,,discovery_candidate_only,pending,Do not promote until manufacturer evidence recorded
-CMP-LDR-0010,pending_model_specific_evidence,,,discovery_candidate_only,pending,Do not promote until manufacturer evidence recorded
+CMP-LDR-0006,manufacturer_primary,https://www.sick.com/media/pdf/2/42/842/dataSheet_LMS111-10100_1041114_ko.pdf,2026-10-10,model_specific_or_family_see_evidence_review,source_backed,See manufacturer_evidence_sources.csv; no hardware test
+CMP-LDR-0007,manufacturer_primary,https://www.hokuyo-aut.jp/search/single.php?serial=169,2026-10-10,model_specific_or_family_see_evidence_review,source_backed,See manufacturer_evidence_sources.csv; no hardware test
+CMP-LDR-0008,manufacturer_primary,https://www.hesaitech.com/cn/news/1067,2026-10-10,model_specific_or_family_see_evidence_review,source_backed,See manufacturer_evidence_sources.csv; no hardware test
+CMP-LDR-0009,manufacturer_primary,https://www.robosense.ai/en/resources-27,2026-10-10,model_specific_or_family_see_evidence_review,source_backed,See manufacturer_evidence_sources.csv; no hardware test
+CMP-LDR-0010,manufacturer_primary,https://ouster.com/products/hardware/os0,2026-10-10,model_specific_or_family_see_evidence_review,source_backed,See manufacturer_evidence_sources.csv; no hardware test

@@ -1,0 +1,6 @@
+component_id,manufacturer,model,proposed_sku,source_url,source_type,claim_scope,evidence_status,access_date
+CMP-LDR-0006,SICK,LMS111,LMS111-10100,https://www.sick.com/media/pdf/2/42/842/dataSheet_LMS111-10100_1041114_ko.pdf,manufacturer_primary,model_specific,source_backed,2026-10-10
+CMP-LDR-0007,Hokuyo,UTM-30LX,UTM-30LX,https://www.hokuyo-aut.jp/search/single.php?serial=169,manufacturer_primary,model_specific,source_backed,2026-10-10
+CMP-LDR-0008,Hesai,PandarXT-32,,https://www.hesaitech.com/cn/news/1067,manufacturer_primary,historical_model_announcement,source_backed,2026-10-10
+CMP-LDR-0009,RoboSense,RS-LiDAR-16,,https://www.robosense.ai/en/resources-27,manufacturer_primary,manufacturer_download_listing,source_backed,2026-10-10
+CMP-LDR-0010,Ouster,OS0,,https://ouster.com/products/hardware/os0,manufacturer_primary,family_only,source_backed,2026-10-10

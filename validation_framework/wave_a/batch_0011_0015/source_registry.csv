@@ -1,0 +1,6 @@
+component_id,source_type,source_url,access_date,claim_scope,evidence_status,review_note
+CMP-LDR-0011,manufacturer_primary,https://www.sick.com/media/pdf/8/48/148/dataSheet_TIM781-2174101_1096807_en.pdf,2026-10-10,model_specific,source_backed,No hardware test or algorithm validation
+CMP-LDR-0012,manufacturer_primary,https://www.hokuyo-aut.jp/search/single.php?serial=167,2026-10-10,model_specific,source_backed,No hardware test or algorithm validation
+CMP-LDR-0013,manufacturer_primary,https://www.slamtec.com/en/lidar/a3spec,2026-10-10,model_specific_sku_pending,source_backed,No hardware test or algorithm validation
+CMP-LDR-0014,manufacturer_primary,https://www.livoxtech.com/avia-2/specs,2026-10-10,model_specific,source_backed,No hardware test or algorithm validation
+CMP-LDR-0015,manufacturer_primary,https://docs.ouster.com/sensor-docs/hardware/os2-overview,2026-10-10,rev7_family_only,source_backed,No hardware test or algorithm validation
